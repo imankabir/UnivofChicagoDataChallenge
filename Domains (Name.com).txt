@@ -1,0 +1,2515 @@
+a3/a2@ase 2:1d:-sy-11GbBARKHE4EJM ECF No. 4-5 fibedpa4/15/11 PagelD.271 Page 1RaGE9 a1
+
+DECLARATION OF SCOTT McBREEN
+PURSUANT TO 28 U.S.C. ' 1746
+
+I, Scott McBreen, depose and say as follows:
+
+\. I, Scott McBreen, have personal knowledge of the facts set forth below and am
+competent to testify as follows:
+
+2. I am the Domain Operations Manager at Name.com, (Name.com), a company that
+provides domain registration services. I have authority to certify the authenticity of the records
+produced by Name.com and attached hereto.
+
+3. The documents produced and attached hereto by Name.com are true copies of
+records of regularly conducted activity that:
+
+a. were made at or near the time of the occurrence of the matters set forth by,
+
+or from information transmitted by, a person with knowledge of those
+
+matters;
+b. were kept in the course of the regularly conducted activity of Name.com;
+and
+Gi. were made by the regularly conducted activity as a regular practice of
+Name.com.
+A, In October 2010, we received a Civil Investigative Demand (CID) from the
+
+Federal Trade Commission (FTC) asking for documents relating to two domain names,
+new6reports.com, and news9diet.com. For the purposes of this declaration, I have been asked to
+limit my statement to the first of these. I was the person at Name.com responsible for gathering
+information and responding to the FTC=s CID.
+
+5. Attached to this declaration as McBreen Attachment A is the first part of
+
+Name.com=s response to the CID. The first two pages provide a summary of the information,
+
+PX 2nao hoape 27bt -ey-116485REE;LIM ECF No. 4-5 fHeg-Q4/15/11 PagelD.272 Page 2@£49 go
+
+with the first page mostly addressing new6reports.com. As that summary states, our records
+show that the site was registered by Cody Low. The associated company is Coulomb Media
+Incorporated, the associated address is 776 Trombley Road, Grosse Point Park, Michigan 48230,
+and the associated email address is coulombmedia@gmail.com. The summary also shows that
+the domain had been registered since May 20, 2010, that it was paid for using a Paypal account
+linked to the gmail account just referred to, and that the user=s IP address was 68.40.106.195. It
+also shows that the domain was pointing to two servers, ns1.coulombmedia.com and
+ns2coulombmedia.com. The page following the summary is a printout of Name.com records
+showing this information, with the exception of the server information. However, I had
+determined the server information by accessing Name.com records electronically.
+
+6. The next four pages, numbered pages 1 through 4, show the dates this account
+was accessed, and the IP addresses from which the account was accessed. The transactions are
+in chronological order, and as can be seen on page 1, it was first accessed on July 21, 2009, and
+as can be seen on page 4, it had continued to be accessed until Novermber 2, 2010, which was
+near the time I compiled this information in responding 10 the FTCss CID.
+
+Vs After providing this information to the FTC, I was then contacted by FTC
+personnel and asked to provide as a follow up, among other things, a list of all the domain names
+registered with Name.com for the coulombmedia account. I responded by email on November 8,
+2010, a copy of which is attached as McBreen Attachment B. The domains associated with
+coulombmedia=s account start on page one of that document and continue to the final page.
+
+(Following that list is a copy of the email I received from the FTC requesting the follow up.)
+
+|Fe*@Q 2 o> 3aa/a2tase 2,b1-Gyv-116h8sREaLJM ECF No. 4-5 fieg-Q4/15/11 PagelD.273 Page 3:a629 g3
+
+I certify under penalty of perjury that the foregoing is true and correct.
+
+Executed on JS Z , 2011.
+
+SCOTT MCBREEN
+Domain Operations Manager
+Name.com
+
+I 3 o> 3Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.274 Page 4of19
+
+name|com
+
+ 
+
+Name.com Inc.
+
+125 Rampart Way
+
+Suite 300
+
+Denver, Colorado 80230
+Telephone: (720) 249-2374
+Fax: (303) 364-3646
+
+Dear Special Agent Anthony Gregory,
+
+Provided in this document is the information requested in civil action demand regarding
+new6reports.com and news9diet.com.
+
+The domain name newé6reports.com was registered by Cody Low. His contact details are as
+follows:
+
+Company Name: Coulomb Media Incorporated
+Contact Name: Cody Low
+
+Address: 776 Trombley Rd.
+
+City/State/Zip: Grosse Pointe Park/MI/48230
+Country: US
+
+Phone: 8669459174
+
+Fax:
+
+Email: coulombmedia@email.com
+
+ 
+
+The domain name is pointing to the name servers ns1.coulombmedia.com and
+ns2.coulombmedia.com. The domain has been registered since 2010-05-20.
+
+The following page provide transaction details involving new6reports.com. The payment was
+made using the Paypal.com account coulombmedia(@gmail.com. The users IP address was
+68.40.106.195.
+
+ 
+
+The following 4 pages contain the dates when Cody Low‘s account was accessed, as well as the
+IP addresses from which the logins occurred.
+
+The domain name news9diet.com was registered by Teerasak Naprasertkul. His contact details
+are as follows:
+Company Name: Kornkanok Naprasertkul
+
+Contact Name: Teerasak Naprasertkul
+Address: 22-112 moo8 Priyaluck Village
+
+McBreen Attachment ACase 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.275 Page5of 19
+
+City/State/Zip: bangkae/bangkok/10160
+Country: TH
+
+Phone: 24554871
+
+Fax:
+
+Email: jakee4S(@gmail.com
+
+The domain name is pointing to the name servers ns] news9diet.com and ns2.news9diet.com.
+The domain has been registered since 2010-04-23.
+
+The following page provide transaction details involving news9diet.com. The payment was
+made using the Paypal.com account mind0013@live.com. The users IP address was
+208.70.148.81.
+
+The following 4 pages contain the dates when Teerasak Naprasertkul’s account was accessed, as
+well as the IP addresses from which the logins occurred.
+
+Please let us know if we can provide any additional details. We would be happy to provide
+further assistance. You are welcome to reach me at scott(@#name.com or directly at 7209376321
+
+Thank you,
+
+Scott McBreenCase 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.276 Page 6 of 19
+
+painjde :snje7ys juswAeg
+
+WOO'SHOUSIGMeL 66k
+
+af tps DDE UR she he one AE ee AS SS OO MOLE! co 8 58 Gy Rene BERS
+
+uo}ayoseq 39M 1X3
+
+sone = AOS] PUNGH = fJEM pues = auyjoaq HO amideg panbely YO S80/G YO PSHESAUN «=: SNOLLOV
+
+LESSCSOPPLODSHLRSIOPPPLecceicoEep
+(BIA) 0 28409 ASTY
+
+sn
+
+'UBBINIA ‘S]U]Og @SSO15 1907] Gd] aNdL
+SN ‘Ivy ‘ajulog assoig) 1907] di}
+
+SEL GOL OP 89 tdi
+
+ 
+
+GOPSOEPINIPERBEEH Te +O!
+
+WOd' 1815 @ PIPSwWqLUOINAD joOoY
+ledABY ipo juswARY
+
+wa
+
+  
+ 
+
+P£LGSP6999" 1+
+
+WOd' /#WG6 ay BIpaLUquiC|nGs
+
+SN OZSr IN HIE BujOd assaip
+"Py Aajquiouy 922
+
+M07] Apo
+
+SUONHBLUUOIU] LODY
+
+ 
+
+AGA UR CS oe La a Se oe O° meh
+junoas|
+
+ 
+
+ 
+
+nfssaoons b
+PSdwusaye |
+368d UO SiBpion
+
+SIE
+juNne| UjBWOg
+woo" aweU
+
+  
+
+99hid WN
+
+DBA SIOUN,
+oo UOWeAsibay:
+ila}]
+
+ 
+
+86°01 / 8601S
+OaidivaA
+
+(plo sAep Gzb)
+6002-21-20 ‘doy
+(W700) ZBEZES saly
+Teeicte tg,
+
+Ned biG
+040¢-64-S0 :dG
+EIPSWiGWoNos iN}Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.277 Page 7 of 19
+
+Sheet
+
+Accessed From Date Result
+
+68.40.170.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.170.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+
+07/21/09 04:21 PM unsuccess
+07/21/09 04:21 PM unsuccess
+07/21/09 04:21 PM success
+07/25/09 01:51 PM unsuccess
+07/25/09 01:51 PM unsuccess
+07/25/09 01:51 PM unsuccess
+07/25/09 01:51 PM success
+07/27/09 09:21 PM unsuccess
+07/27/09 09:21 PM unsuccess
+07/27/09 09:21 PM unsuccess
+07/27/09 09:21 PM success
+08/03/09 07:24 PM unsuccess
+08/03/09 07:24 PM unsuccess
+08/03/09 07:24 PM success
+08/04/09 07:10 PM unsuccess
+08/04/09 07:11 PM success
+08/25/09 04:17 PM success
+10/19/09 07:20 PM unsuccess
+10/19/09 07:20 PM unsuccess
+40/19/09 07:21 PM unsuccess
+10/19/09 07:21 PM unsuccess
+10/19/09 07:21 PM unsuccess
+10/19/09 07:22 PM success
+11/03/09 07:47 PM success
+11/07/09 10:21 AM success
+41/09/09 04:01 PM success
+11/18/09 01:44 PM success
+11/30/09 06:38 PM success
+12/03/09 06:34 PM success
+12/05/09 06:33 PM success
+12/09/09 04:28 PM success
+12/18/09 11:25 AM success
+12/18/09 11:31 AM success
+01/08/10 02:41 PM success
+01/12/10 05:01 PM success
+01/12/10 05:55 PM success
+01/22/10 09:57 AM success
+01/22/10 02:54 PM success
+01/23/10 12:11 PM success
+01/24/10 03:37 PM success
+01/28/10 10:02 PM success
+01/29/10 07:39 PM success .
+01/30/10 12:04 PM success
+01/30/10 07:16 PM success
+01/31/10 10:08 AM success
+02/07/10 01:44 PM success
+02/07/10 02:47 PM success
+02/07/10 10:04 PM success
+
+Page 1Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.278 Page 8 of 19
+
+sheet
+
+68.40.106.195 02/07/10 10:43 PM unsuccess
+
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+24.180.166.166
+24.180.166.166
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+75.133.24.223
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+
+02/07/10 10:44 PM success
+02/08/10 06:17 PM success
+02/08/10 07:59 PM success
+02/25/10 11:04 PM success
+03/04/10 05:28 PM success
+03/08/10 08:53 PM success
+03/08/10 10:06 PM success
+03/10/10 02:09 PM success
+03/10/10 05:20 PM success
+03/20/10 01:24 PM success
+03/20/10 08:51 PM success
+03/25/10 01:42 PM success
+03/25/10 07:31 PM success
+03/27/10 07:43 PM success
+03/31/10 01:39 PM success
+04/04/10 05:56 PM success
+04/07/10 04:03 PM success
+04/09/10 01:09 PM success
+04/09/10 03:39 PM success
+04/11/10 10:33 AM success
+04/11/10 12:32 PM success
+04/11/10 09:17 PM success
+04/13/10 02:24 AM success
+04/13/10 04:57 AM success
+04/16/10 05:31 PM success
+04/16/10 09:03 PM success
+04/24/10 08:41 AM success
+04/25/10 07:40 PM success
+04/27/10 12:27 PM success
+05/01/10 08:10 PM success
+05/01/10 09:38 PM success
+05/02/10 02:37 PM success
+
+05/02/10 06:15 PM unsuccess
+
+05/02/10 06:15 PM success
+05/03/10 11:21 PM success
+05/09/10 04:14 PM success
+05/11/10 10:25 PM success
+05/13/10 02:42 PM success
+05/19/10 09:10 PM success
+05/24/10 08:06 AM success
+06/01/10 01:16 AM success
+06/05/10 02:36 PM success
+06/05/10 05:42 PM success
+06/12/10 05:21 PM success
+06/12/10 05:26 PM success
+06/13/10 11:35 PM success
+06/19/10 11:00 PM success
+06/24/10 10:23 AM success
+
+Page 2Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.279 Page 9 of 19
+
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+
+06/25/10 06:53 PM success
+06/26/10 01:00 PM success
+07/13/10 10:53 PM success
+07/14/10 09:49 PM success
+07/15/10 04:29 AM success
+07/15/10 02:24 PM success
+07/18/10 09:32 PM success
+07/29/10 11:08 AM success
+07/29/10 12:26 PM success
+07/29/10 02:39 PM success
+07/29/10 02:40 PM success
+07/30/10 11:53 PM success
+07/31/10 12:22 AM success
+08/01/10 01:34 PM success
+08/04/10 02:05 PM success
+08/05/10 12:54 AM success
+08/06/10 11:33 PM success
+08/13/10 08:04 PM success
+08/30/10 07:35 PM success
+08/30/10 08:11 PM success
+09/01/10 05:43 PM success
+09/04/10 11:24 AM success
+
+09/04/10 11:49 AM unsuccess
+
+09/04/10 11:50 AM success
+09/10/10 02:56 PM success
+09/14/10 01:24 AM success
+09/16/10 08:23 PM success
+09/20/10 11:57 PM success
+09/23/10 04:59 PM success
+09/30/10 10:59 AM success
+09/30/10 06:12 PM success
+09/30/10 09:43 PM success
+10/06/10 06:26 AM success
+10/06/10 06:51 AM success
+10/06/10 07:40 PM success
+10/08/10 12:20 AM success
+10/08/10 12:41 PM success
+10/10/10 10:50 PM success
+10/14/10 04:19 PM success
+10/14/10 04:54 PM success
+10/18/10 02:52 AM success
+10/19/10 04:29 AM success
+10/19/10 11:27 AM success
+10/20/10 02:19 PM success
+10/21/10 12:20 AM success
+10/21/10 04:01 PM success
+10/21/10 09:50 PM success
+10/22/10 01:59 PM success
+10/23/10 07:16 AM success
+
+Sheet1
+
+Page 3Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.280 Page 10 of 19
+
+Sheet
+68.40.106.195 10/24/10 07:44 PM success
+68.40.106.195 10/25/10 11:09 PM success
+68.40.106.195 10/27/10 12:50 PM success
+
+224.236.175.252 10/30/10 12:15 AM success
+224.236.175.252 10/30/10 08:33 PM success
+64.202.58.3 41/02/10 04:09 PM success
+
+Page 4ge 11 of 19
+
+Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 _PagelD.281 Pa
+
+paunjdeg
+
+         
+
+__ Woo"suyjUoWOdepalosn
+
+USI Nias PSR SED DOA DS OMOUT:
+
+AUOD POdeNIpas0Eyye.
+WOO}aIDESA\eU
+
+       
+
+ 
+
+ 
+
+BBR
+Bid JXZ
+
+       
+
+ 
+
+uondwosag
+
+ 
+
+ajololo
+
+junoosig
+
+UoReASIiay
+
+ee UO RASIDS
+UOReAsiiay
+
+_. Uonensifiey:
+
+way
+
+  
+
+         
+
+  
+  
+
+  
+
+ae se a :
+
+tt RR tt ent ng
+
+Snjye1g juawAed
+
+ 
+
+BOING JOS 86 DUnfeY | RUS aoeq YO aumdey
+
+ULOBLPPLLGBADESOSSEPPOLLOSEOLO Lg
+(MEIA} 9 :e400g5 SITY
+
+   
+
+Sn ‘uBbwoyy ‘epee 907] qd] anap
+SN “Tobe 1907] di
+LE BPL OL 806 tdi
+
+    
+
+  
+
+LLbpasre 99+
+
+wos 2b mGpeanel
+
+HL GS-01 yoyBueg ‘eeyfueg
+SHEA MON|BAU BOOW ZL L-Ze
+MLaseideN yeseiaay
+TUONRUNOIL) L999
+
+   
+
+   
+
+AQLESSLOBOCEECMING ‘01
+
+WOD' SALE LOOPUIW yOoy
+(PHAR Y Tpoulaly juewAeY
+
+        
+   
+
+     
+
+      
+
+paboel uo
+
+ 
+
+A019 HO AEA = ISNOILOV -
+
+tt
+|
+
+96°SE / IBSES
+QsaldidaANn
+
+(pio sAep gps)
+G00Z-01-S0 ‘doy
+{GD0]) OF6 tee caly
+TPo0s0d sOLL
+
+iijssagons -
+
+ 
+
+PayOUWIGe |
+ahed uO Ssispiop
+
+Sb
+june} ujEew08g
+WOO SLueU
+
+WY EE
+OO¢d-F2-70 -do
+Foocaonseald innAccessed From
+203.156.6.158
+203.156.6.215
+203.156.6.29
+203.156.6.18
+203.156.6.191
+203.156.6.180
+203.156.6.243
+203.156.6.121
+203.156.6.127
+203.156.6.102
+203.156.6.102
+203.156.6.102
+203.156.6.115
+203.156.6.115
+203.156.6.115
+203.156.6.24
+203.156.6.42
+203.156.6.146
+203.156.6.215
+203.156.6.187
+96.9.136.115
+203.156.6.150
+203.156.6.252
+203.156.6.136
+203.156.6.246
+203.156.6.67
+203.156.6.62
+203.156.6.42
+203.156.6.233
+203.156.6.9
+203.156.6.9
+203.156.6.29
+203.156.6.29
+203.156.6.129
+203.156.6.12
+203.156.656.149
+203.156.6.34
+203.156.6.28
+203.156.6.163
+203.156.6.184
+203.156.6.81
+203.156.6.241
+203.156.6.241
+203.156.6.12
+203.156.6.94
+203.156.6.94
+203.156.6.94
+203.156.6.214
+
+Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.282 Page 12 of 19
+
+Sheett
+
+Date Result
+
+05/11/09 06:35 AM success
+05/14/09 05:46 PM success
+05/25/09 11:52 PM success
+05/26/09 01:34 AM success
+06/04/09 05:08 AM success
+
+_ 06/12/09 10:26 PM success
+
+06/15/09 12:22 AM success
+06/22/09 06:29 PM success
+07/10/09 09:23 PM success
+07/18/09 07:22 PM success
+07/18/09 09:23 PM success
+07/18/09 09:34 PM success
+07/18/09 10:35 PM success
+07/19/09 04:31 AM success
+07/19/09 05:05 AM success
+07/19/09 07:16 AM success
+07/19/09 11:42 AM success
+07/20/09 04:23 AM success
+07/21/09 02:06 AM success
+07/21/09 02:34 AM success
+07/21/09 02:45 AM success
+07/21/09 03:44 AM success
+07/23/09 01:14 AM success
+07/23/09 05:43 AM success
+07/23/09 06:57 AM success
+07/25/09 07:27 AM success
+08/06/09 12:28 AM success
+08/08/09 11:18 PM success
+08/09/09 08:10 AM success
+08/10/09 01:29 AM success
+08/10/09 02:53 AM success
+08/10/09 02:17 PM success
+08/10/09 07:16 PM success
+08/12/09 08:21 AM success
+08/13/09 08:05 AM success
+08/13/09 08:28 AM success
+08/14/09 12:08 AM success
+08/14/09 07:47 AM success
+08/16/09 08:58 AM success
+08/19/09 07:30 PM success
+08/20/09 01:37 AM success
+08/20/09 03:47 AM success
+08/20/09 03:47 AM success
+08/20/09 07:36 AM success
+08/22/09 09:49 PM success
+08/23/09 12:17 AM success
+08/23/09 12:54 AM success
+08/24/09 11:31 PM success
+
+Page 1Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.283 Page 13 of 19
+
+203.156.6.194
+203.156.6.162
+203.156.6.162
+203.156.6.133
+203.156.6.133
+203.156.6.133
+203,156.6.133
+203.156.6.178
+203.156.6.162
+203.156.6.240
+203.156.6.150
+203.156.6.150
+203.156.6.169
+203.156.6.115
+203.156.6.187
+203.156.6.94
+203.156.6.251
+203.156.6.34
+203.156.6.34
+203.156.6.125
+203.156.6.125
+203.156.6.186
+203.156.6.186
+203.156.6.82
+203.156.6.139
+203.156.6.207
+124.157.215.714
+124.157.196.236
+424.157 .215.14
+124.157.215.126
+124.157.214.103
+203.156.6.33
+124.157.214.227
+124.157.215.165
+203.156.57.104
+118.172.33.70
+203.156.57.13
+203.156.57.173
+203.156.57.182
+203.156.57.193
+208.70.148.81
+203.156.57.193
+203.156.57.203
+124.157.132.220
+203.156.57.221
+208.70.148.81
+203.156.57.229
+203.156.57.229
+203.156.57.231
+
+Sheet
+
+08/24/09 11:41 PM success
+08/26/09 08:36 AM success
+08/26/09 10:51 AM success
+08/27/09 09:21 AM success
+08/27/09 10:11 AM success
+08/27/09 10:43 AM success
+08/30/09 07:48 PM success
+09/03/09 01:47 PM success
+09/06/09 07:18 AM success
+
+09/08/09 09:53 AM unsuccess
+
+09/08/09 09:45 PM success
+09/09/09 03:44 AM success
+09/18/09 06:09 AM success
+10/10/09 10:14 AM success
+10/14/09 04:04 AM success
+10/19/08 10:47 PM success
+11/20/09 08:51 AM success
+11/23/09 09:59 PM success
+11/24/09 09:03 AM success
+11/25/09 12:08 AM success
+11/25/09 10:30 AM success
+12/12/09 09:10 AM success
+42/12/09 09:30 PM success
+42/13/09 09:18 PM success
+12/16/09 08:06 AM success
+12/17/09 08:15 PM success
+12/31/09 06:43 AM success
+01/02/10 08:32 AM success
+01/02/10 10:38 PM success
+01/27/10 08:19 AM success
+02/05/10 08:18 AM success
+02/05/10 06:27 PM success
+02/08/10 07:05 PM success
+02/09/10 05:51 PM success
+02/20/10 12:24 AM success
+03/08/10 12:02 AM success
+03/13/10 12:38 AM success
+04/18/10 10:15 AM success
+04/19/10 08:15 AM success
+04/20/10 10:17 AM success
+04/23/10 03:12 AM success
+04/24/10 03:27 AM success
+04/28/10 12:48 AM success
+04/30/10 10:43 PM success
+04/30/10 10:45 PM success
+05/04/10 04:24 AM success
+05/04/10 04:32 AM success
+05/04/10 07:30 AM success
+05/04/10 11:11 AM success
+
+Page 2Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.284 Page 14 of 19
+
+Sheet
+
+05/04/10 11:24 AM success
+05/04/10 11:40 AM success
+
+124.157.198.190
+124.157.198.190
+
+203.156.57.231
+203.156.57.232
+203.156.57.3
+203.156.57.81
+124.157.137.3
+
+124.157.137.222
+
+203.156.57.123
+98.158.180.233
+203.156.57.137
+203.156.57.89
+203.156.57.89
+203.156.57.89
+203.156.57.89
+203.156.57.89
+203.156.57.89
+76.161.33.58
+203.156.57.89
+203.156.57.89
+203.156.57.89
+76.161.33.58
+76.161.33.58
+203.156.57.89
+76.161.33.58
+203.156.57.89
+203.156.57.89
+
+124.157.132.113
+124.157.132.113
+
+203.156.57.89
+124.157.253.98
+203.156.57.120
+203.156.57.120
+203.156.57.120
+425.24.127.17
+203.156.57.120
+76.161.33.58
+203.156.57.120
+203.156.57.120
+124.157.253.39
+76.161.33.58
+
+05/04/10 07:37 PM success
+05/04/10 09:38 PM success
+05/06/10 10:17 AM success
+05/13/10 07:58 AM success
+05/17/10 10:47 PM success
+05/21/10 12:51 AM success
+05/22/10 03:51 AM success
+06/10/10 09:37 AM success
+06/10/10 08:24 PM success
+06/12/10 09:12 AM success
+
+06/13/10 12:28 AM unsuccess
+
+06/13/10 12:29 AM success
+06/14/10 09:31 PM success
+06/15/10 06:32 AM success
+06/15/10 09:00 AM success
+06/19/10 08:37 AM success
+06/19/10 08:48 AM success
+06/20/10 07:51 AM Success
+06/20/10 09:27 PM success
+06/20/10 09:46 PM success
+06/21/10 07:02 AM success
+06/23/10 08:53 AM success
+06/23/10 08:54 AM success
+07/05/10 08:27 AM success
+07/07/10 09:13 AM success
+07/07/10 08:24 PM success
+07/07/10 09:27 PM success
+07/07/10 10:30 PM success
+07/12/10 07:08 PM success
+07/13/10 12:39 PM success
+07/13/10 09:35 PM success
+07/13/10 10:02 PM success
+07/14/10 12:49 AM success
+07/20/10 08:26 PM success
+07/20/10 08:57 PM success
+07/20/10 10:42 PM success
+07/21/10 08:41 AM success
+07/21/10 08:19 PM success
+08/11/10 08:20 AM success
+
+08/23/10 06:38 PM unsuccess
+08/23/10 06:39 PM unsuccess
+08/23/10 06:39 PM success
+08/29/10 09:27 PM unsuccess
+08/29/10 09:28 PM success
+09/03/10 05:47 AM unsuccess
+09/03/10 05:48 AM success
+09/03/10 06:05 AM success
+
+124.157.253.216
+124.157.253.216
+124.157.253.216
+203.156.57.176
+203.156.57.176
+124.157.132.60
+124.157.132.60
+124.157.132.60
+
+Page 3Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.285 Page 15 of 19
+
+Sheet
+
+124.157.132.60 09/03/10 07:40 AM success
+124.157.132.60 09/03/10 08:22 AM success
+
+203.156.57.60 09/03/10 08:57 PM success
+76.161.33.58 09/05/10 12:09 AM unsuccess
+76.161.33.58 09/05/10 12:22 AM success
+
+203.156.57.60 09/05/10 12:55 AM success
+203.156.577.138 09/05/10 08:34 AM unsuccess
+203.156.57.138 09/05/10 08:34 AM success
+76.161.33.58 09/12/10 10:44 PM unsuccess
+76.161.33.58 09/12/10 10:44 PM success
+203.156.57.142 09/19/10 11:16 PM success
+203.156.57.177 09/28/10 09:51 AM success
+203.156.57.177 09/29/10 09:29 PM success
+203.156.57.177 09/30/10 02:50 AM success
+203.156.57.177 09/30/10 03:13 AM success
+203.156.57.216 40/27/10 11:01 PM success
+
+Page 4Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.286 Page 16 of 19
+
+From: Scott McBreen [scott@name.com|]
+
+Sent: Monday, November 08, 2010 12:11 PM
+
+To: Wemikoff, Steven M.
+
+Ce: Wernz, Matthew H.
+
+Subject: Re: Name.com Civil Investigative Demand Response
+Hi Steve,
+
+The requested details have been provided below. Please let us know if we can be of further assistance.
+Thank you,
+
+Scott McBreen
+Name.com
+
+domains in prestige2008 account:
+
+webonline365.com
+blackfridavdeals2009ads.com
+lackfridav2 les.n
+lackfri | ora
+acaiberrycare.cam
+fastdietdaily.com
+
+lloroi.com
+peoplewhiteteeth.com
+acaiberryhollywood.com
+theworkdaily.com
+
+newsSdiet.com
+all itreport.com
+
+uscreditrepartonline.com
+
+domains in coulombmedia account:
+
+jasonsgotripped.com
+news7health.com
+itrackclicks.com
+nitricoxidemiracles.net
+fF7news.com
+
+careersch ch.
+careerschoalmtch.com
+quotewizardauto.com
+
+cashfrcops.com
+
+S ne
+classsusa.net
+
+classsessusa.com
+trackleady.cam
+studentloansbadcredit.net
+coulombwebassets.com
+radiologictechnologistiobs.ora
+medicalbillinacareers.net
+localn Ghealth.com
+kevinsincomejournal.com
+consumersweeklytips.com
+
+McBreen Attachment BCase 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.287 Page 17 of 19
+
+2beparents.cam
+scholrships4moms.com
+quidetotattooremoval.com
+
+-in nce-coverace.ora
+onlineeducationscout.com
+onlineeducationscout.net
+
+nti ication or
+onlineeducationscout.info
+
+govarantsforwomen.net
+cellulitecreamreview.org
+
+W - h-survery.com
+womens-health-survey.com
+trackstatys.com
+medical-careersus.com
+amysdietstory.co.uk
+amyswiohtlossstory,.com
+
+amysstorvdiet.com
+advestmentmedia.com
+
+advestmentmedia, net
+acvestmentmedia.inf.
+
+advestmentmedia.org
+
+advestmentmedia.me
+advestmen la.tv
+yestm ial
+advestmentmedia.mobi
+advestmentmedia. biz
+medical-assistant-jobs.org
+medi ling m
+medicalbilling180.net
+medicalbillina180.info
+medicalbillina180.ordg
+fa okzvna kerbot.ca
+scholarshiphelp.net
+new6reports.com
+kellyseczematreatment.cam
+Ick! com
+poweredbymagnets.net
+poweredbymaanets.com
+poweredbymaanets. info
+poweredbymaanets.org
+cclead.net
+tv9newstoday.com
+minemjavz m
+Stacysdietblog.com
+healthSnews.tv
+fdx8news.com
+fheoktracking.com
+leadzmachine.com
+newsat6health.cam
+audietnow.com
+premclicktrack.com
+wrinklecreamred.com
+dsptracking.com
+truthabouabslinker.com
+clickbankz.com
+college-grants.org
+jetbids.comCase 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.288 Page 18 of 19
+
+jobarks.com
+consumerheaithwarning.com
+usdietnow.com
+debtinfo2010.com
+securedclick.net
+wrinkleebook.com
+washinatongazette.ora
+washinatongazette.tv
+timesinside.ora
+timesinside.tv
+
+memophisaazettenews.cam
+memphisgqazettenews.net
+memphisaazettenews.org
+memphisaazettenews.tv
+securedlink.net
+linksecured net
+doubledietrules.com
+
+antiagingebook.com
+uscl itderquide.coam
+
+liquidationclick.com
+
+muscletracking.com
+liguidationtrack.com
+liquidationlink.ne
+WEI reports net
+agingreport.net
+eatcleanweiahtloss.net
+eatcleanhow.com
+viiquidationtracking.com
+consumerworksjournal.com
+dicetracking.com
+fbpennvaticti VIEW.C
+eatcleanaustralia.com
+eaticleaniump.com
+weeklyhealthinsiders.cam
+freecouponhunt.com
+lauraweichtiossdiary.com
+ecsecured.com
+brainguizaer.com
+theskinbeautyclinic.net
+wrinkle¢Sebook.com
+teethdentistiump.com
+consumersdigestweekly.tv
+
+Scott McBreen
+
+Domain Operations Manager
+Name.com
+
+scott(@name.com
+
+720.937.6321
+
+On Mon, Nov 8, 2010 at 9:44 AM, Wemikoff, Steven M. <SWER
+
+ 
+
+fic, gov> wrote:
+
+Scott:Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.289 Page 19 of 19
+
+Thanks for your response concerning the FTC’s CID. We have one follow-up request.
+
+Could you please provide a list of all of the domain names registered with Name.com by the accounts identified in your CID
+response: (1) coulombmedia , and (2) prestige2008 ? Response by email is fine if that is more convenient.
+
+Thanks in advance for your assistance. Please do not hesitate to contact me should you have any questions.
+
+- Steve Wernikoff
+_ Federal Trade Commission
+
+312.960.5630a3/a2@ase 2:1d:-sy-11GbBARKHE4EJM ECF No. 4-5 fibedpa4/15/11 PagelD.271 Page 1RaGE9 a1
+
+DECLARATION OF SCOTT McBREEN
+PURSUANT TO 28 U.S.C. ' 1746
+
+I, Scott McBreen, depose and say as follows:
+
+\. I, Scott McBreen, have personal knowledge of the facts set forth below and am
+competent to testify as follows:
+
+2. I am the Domain Operations Manager at Name.com, (Name.com), a company that
+provides domain registration services. I have authority to certify the authenticity of the records
+produced by Name.com and attached hereto.
+
+3. The documents produced and attached hereto by Name.com are true copies of
+records of regularly conducted activity that:
+
+a. were made at or near the time of the occurrence of the matters set forth by,
+
+or from information transmitted by, a person with knowledge of those
+
+matters;
+b. were kept in the course of the regularly conducted activity of Name.com;
+and
+Gi. were made by the regularly conducted activity as a regular practice of
+Name.com.
+A, In October 2010, we received a Civil Investigative Demand (CID) from the
+
+Federal Trade Commission (FTC) asking for documents relating to two domain names,
+new6reports.com, and news9diet.com. For the purposes of this declaration, I have been asked to
+limit my statement to the first of these. I was the person at Name.com responsible for gathering
+information and responding to the FTC=s CID.
+
+5. Attached to this declaration as McBreen Attachment A is the first part of
+
+Name.com=s response to the CID. The first two pages provide a summary of the information,
+
+PX 2nao hoape 27bt -ey-116485REE;LIM ECF No. 4-5 fHeg-Q4/15/11 PagelD.272 Page 2@£49 go
+
+with the first page mostly addressing new6reports.com. As that summary states, our records
+show that the site was registered by Cody Low. The associated company is Coulomb Media
+Incorporated, the associated address is 776 Trombley Road, Grosse Point Park, Michigan 48230,
+and the associated email address is coulombmedia@gmail.com. The summary also shows that
+the domain had been registered since May 20, 2010, that it was paid for using a Paypal account
+linked to the gmail account just referred to, and that the user=s IP address was 68.40.106.195. It
+also shows that the domain was pointing to two servers, ns1.coulombmedia.com and
+ns2coulombmedia.com. The page following the summary is a printout of Name.com records
+showing this information, with the exception of the server information. However, I had
+determined the server information by accessing Name.com records electronically.
+
+6. The next four pages, numbered pages 1 through 4, show the dates this account
+was accessed, and the IP addresses from which the account was accessed. The transactions are
+in chronological order, and as can be seen on page 1, it was first accessed on July 21, 2009, and
+as can be seen on page 4, it had continued to be accessed until Novermber 2, 2010, which was
+near the time I compiled this information in responding 10 the FTCss CID.
+
+Vs After providing this information to the FTC, I was then contacted by FTC
+personnel and asked to provide as a follow up, among other things, a list of all the domain names
+registered with Name.com for the coulombmedia account. I responded by email on November 8,
+2010, a copy of which is attached as McBreen Attachment B. The domains associated with
+coulombmedia=s account start on page one of that document and continue to the final page.
+
+(Following that list is a copy of the email I received from the FTC requesting the follow up.)
+
+|Fe*@Q 2 o> 3aa/a2tase 2,b1-Gyv-116h8sREaLJM ECF No. 4-5 fieg-Q4/15/11 PagelD.273 Page 3:a629 g3
+
+I certify under penalty of perjury that the foregoing is true and correct.
+
+Executed on JS Z , 2011.
+
+SCOTT MCBREEN
+Domain Operations Manager
+Name.com
+
+I 3 o> 3Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.274 Page 4of19
+
+name|com
+
+ 
+
+Name.com Inc.
+
+125 Rampart Way
+
+Suite 300
+
+Denver, Colorado 80230
+Telephone: (720) 249-2374
+Fax: (303) 364-3646
+
+Dear Special Agent Anthony Gregory,
+
+Provided in this document is the information requested in civil action demand regarding
+new6reports.com and news9diet.com.
+
+The domain name newé6reports.com was registered by Cody Low. His contact details are as
+follows:
+
+Company Name: Coulomb Media Incorporated
+Contact Name: Cody Low
+
+Address: 776 Trombley Rd.
+
+City/State/Zip: Grosse Pointe Park/MI/48230
+Country: US
+
+Phone: 8669459174
+
+Fax:
+
+Email: coulombmedia@email.com
+
+ 
+
+The domain name is pointing to the name servers ns1.coulombmedia.com and
+ns2.coulombmedia.com. The domain has been registered since 2010-05-20.
+
+The following page provide transaction details involving new6reports.com. The payment was
+made using the Paypal.com account coulombmedia(@gmail.com. The users IP address was
+68.40.106.195.
+
+ 
+
+The following 4 pages contain the dates when Cody Low‘s account was accessed, as well as the
+IP addresses from which the logins occurred.
+
+The domain name news9diet.com was registered by Teerasak Naprasertkul. His contact details
+are as follows:
+Company Name: Kornkanok Naprasertkul
+
+Contact Name: Teerasak Naprasertkul
+Address: 22-112 moo8 Priyaluck Village
+
+McBreen Attachment ACase 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.275 Page5of 19
+
+City/State/Zip: bangkae/bangkok/10160
+Country: TH
+
+Phone: 24554871
+
+Fax:
+
+Email: jakee4S(@gmail.com
+
+The domain name is pointing to the name servers ns] news9diet.com and ns2.news9diet.com.
+The domain has been registered since 2010-04-23.
+
+The following page provide transaction details involving news9diet.com. The payment was
+made using the Paypal.com account mind0013@live.com. The users IP address was
+208.70.148.81.
+
+The following 4 pages contain the dates when Teerasak Naprasertkul’s account was accessed, as
+well as the IP addresses from which the logins occurred.
+
+Please let us know if we can provide any additional details. We would be happy to provide
+further assistance. You are welcome to reach me at scott(@#name.com or directly at 7209376321
+
+Thank you,
+
+Scott McBreenCase 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.276 Page 6 of 19
+
+painjde :snje7ys juswAeg
+
+WOO'SHOUSIGMeL 66k
+
+af tps DDE UR she he one AE ee AS SS OO MOLE! co 8 58 Gy Rene BERS
+
+uo}ayoseq 39M 1X3
+
+sone = AOS] PUNGH = fJEM pues = auyjoaq HO amideg panbely YO S80/G YO PSHESAUN «=: SNOLLOV
+
+LESSCSOPPLODSHLRSIOPPPLecceicoEep
+(BIA) 0 28409 ASTY
+
+sn
+
+'UBBINIA ‘S]U]Og @SSO15 1907] Gd] aNdL
+SN ‘Ivy ‘ajulog assoig) 1907] di}
+
+SEL GOL OP 89 tdi
+
+ 
+
+GOPSOEPINIPERBEEH Te +O!
+
+WOd' 1815 @ PIPSwWqLUOINAD joOoY
+ledABY ipo juswARY
+
+wa
+
+  
+ 
+
+P£LGSP6999" 1+
+
+WOd' /#WG6 ay BIpaLUquiC|nGs
+
+SN OZSr IN HIE BujOd assaip
+"Py Aajquiouy 922
+
+M07] Apo
+
+SUONHBLUUOIU] LODY
+
+ 
+
+AGA UR CS oe La a Se oe O° meh
+junoas|
+
+ 
+
+ 
+
+nfssaoons b
+PSdwusaye |
+368d UO SiBpion
+
+SIE
+juNne| UjBWOg
+woo" aweU
+
+  
+
+99hid WN
+
+DBA SIOUN,
+oo UOWeAsibay:
+ila}]
+
+ 
+
+86°01 / 8601S
+OaidivaA
+
+(plo sAep Gzb)
+6002-21-20 ‘doy
+(W700) ZBEZES saly
+Teeicte tg,
+
+Ned biG
+040¢-64-S0 :dG
+EIPSWiGWoNos iN}Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.277 Page 7 of 19
+
+Sheet
+
+Accessed From Date Result
+
+68.40.170.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.170.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+
+07/21/09 04:21 PM unsuccess
+07/21/09 04:21 PM unsuccess
+07/21/09 04:21 PM success
+07/25/09 01:51 PM unsuccess
+07/25/09 01:51 PM unsuccess
+07/25/09 01:51 PM unsuccess
+07/25/09 01:51 PM success
+07/27/09 09:21 PM unsuccess
+07/27/09 09:21 PM unsuccess
+07/27/09 09:21 PM unsuccess
+07/27/09 09:21 PM success
+08/03/09 07:24 PM unsuccess
+08/03/09 07:24 PM unsuccess
+08/03/09 07:24 PM success
+08/04/09 07:10 PM unsuccess
+08/04/09 07:11 PM success
+08/25/09 04:17 PM success
+10/19/09 07:20 PM unsuccess
+10/19/09 07:20 PM unsuccess
+40/19/09 07:21 PM unsuccess
+10/19/09 07:21 PM unsuccess
+10/19/09 07:21 PM unsuccess
+10/19/09 07:22 PM success
+11/03/09 07:47 PM success
+11/07/09 10:21 AM success
+41/09/09 04:01 PM success
+11/18/09 01:44 PM success
+11/30/09 06:38 PM success
+12/03/09 06:34 PM success
+12/05/09 06:33 PM success
+12/09/09 04:28 PM success
+12/18/09 11:25 AM success
+12/18/09 11:31 AM success
+01/08/10 02:41 PM success
+01/12/10 05:01 PM success
+01/12/10 05:55 PM success
+01/22/10 09:57 AM success
+01/22/10 02:54 PM success
+01/23/10 12:11 PM success
+01/24/10 03:37 PM success
+01/28/10 10:02 PM success
+01/29/10 07:39 PM success .
+01/30/10 12:04 PM success
+01/30/10 07:16 PM success
+01/31/10 10:08 AM success
+02/07/10 01:44 PM success
+02/07/10 02:47 PM success
+02/07/10 10:04 PM success
+
+Page 1Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.278 Page 8 of 19
+
+sheet
+
+68.40.106.195 02/07/10 10:43 PM unsuccess
+
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+24.180.166.166
+24.180.166.166
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+75.133.24.223
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+
+02/07/10 10:44 PM success
+02/08/10 06:17 PM success
+02/08/10 07:59 PM success
+02/25/10 11:04 PM success
+03/04/10 05:28 PM success
+03/08/10 08:53 PM success
+03/08/10 10:06 PM success
+03/10/10 02:09 PM success
+03/10/10 05:20 PM success
+03/20/10 01:24 PM success
+03/20/10 08:51 PM success
+03/25/10 01:42 PM success
+03/25/10 07:31 PM success
+03/27/10 07:43 PM success
+03/31/10 01:39 PM success
+04/04/10 05:56 PM success
+04/07/10 04:03 PM success
+04/09/10 01:09 PM success
+04/09/10 03:39 PM success
+04/11/10 10:33 AM success
+04/11/10 12:32 PM success
+04/11/10 09:17 PM success
+04/13/10 02:24 AM success
+04/13/10 04:57 AM success
+04/16/10 05:31 PM success
+04/16/10 09:03 PM success
+04/24/10 08:41 AM success
+04/25/10 07:40 PM success
+04/27/10 12:27 PM success
+05/01/10 08:10 PM success
+05/01/10 09:38 PM success
+05/02/10 02:37 PM success
+
+05/02/10 06:15 PM unsuccess
+
+05/02/10 06:15 PM success
+05/03/10 11:21 PM success
+05/09/10 04:14 PM success
+05/11/10 10:25 PM success
+05/13/10 02:42 PM success
+05/19/10 09:10 PM success
+05/24/10 08:06 AM success
+06/01/10 01:16 AM success
+06/05/10 02:36 PM success
+06/05/10 05:42 PM success
+06/12/10 05:21 PM success
+06/12/10 05:26 PM success
+06/13/10 11:35 PM success
+06/19/10 11:00 PM success
+06/24/10 10:23 AM success
+
+Page 2Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.279 Page 9 of 19
+
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+
+06/25/10 06:53 PM success
+06/26/10 01:00 PM success
+07/13/10 10:53 PM success
+07/14/10 09:49 PM success
+07/15/10 04:29 AM success
+07/15/10 02:24 PM success
+07/18/10 09:32 PM success
+07/29/10 11:08 AM success
+07/29/10 12:26 PM success
+07/29/10 02:39 PM success
+07/29/10 02:40 PM success
+07/30/10 11:53 PM success
+07/31/10 12:22 AM success
+08/01/10 01:34 PM success
+08/04/10 02:05 PM success
+08/05/10 12:54 AM success
+08/06/10 11:33 PM success
+08/13/10 08:04 PM success
+08/30/10 07:35 PM success
+08/30/10 08:11 PM success
+09/01/10 05:43 PM success
+09/04/10 11:24 AM success
+
+09/04/10 11:49 AM unsuccess
+
+09/04/10 11:50 AM success
+09/10/10 02:56 PM success
+09/14/10 01:24 AM success
+09/16/10 08:23 PM success
+09/20/10 11:57 PM success
+09/23/10 04:59 PM success
+09/30/10 10:59 AM success
+09/30/10 06:12 PM success
+09/30/10 09:43 PM success
+10/06/10 06:26 AM success
+10/06/10 06:51 AM success
+10/06/10 07:40 PM success
+10/08/10 12:20 AM success
+10/08/10 12:41 PM success
+10/10/10 10:50 PM success
+10/14/10 04:19 PM success
+10/14/10 04:54 PM success
+10/18/10 02:52 AM success
+10/19/10 04:29 AM success
+10/19/10 11:27 AM success
+10/20/10 02:19 PM success
+10/21/10 12:20 AM success
+10/21/10 04:01 PM success
+10/21/10 09:50 PM success
+10/22/10 01:59 PM success
+10/23/10 07:16 AM success
+
+Sheet1
+
+Page 3Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.280 Page 10 of 19
+
+Sheet
+68.40.106.195 10/24/10 07:44 PM success
+68.40.106.195 10/25/10 11:09 PM success
+68.40.106.195 10/27/10 12:50 PM success
+
+224.236.175.252 10/30/10 12:15 AM success
+224.236.175.252 10/30/10 08:33 PM success
+64.202.58.3 41/02/10 04:09 PM success
+
+Page 4ge 11 of 19
+
+Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 _PagelD.281 Pa
+
+paunjdeg
+
+         
+
+__ Woo"suyjUoWOdepalosn
+
+USI Nias PSR SED DOA DS OMOUT:
+
+AUOD POdeNIpas0Eyye.
+WOO}aIDESA\eU
+
+       
+
+ 
+
+ 
+
+BBR
+Bid JXZ
+
+       
+
+ 
+
+uondwosag
+
+ 
+
+ajololo
+
+junoosig
+
+UoReASIiay
+
+ee UO RASIDS
+UOReAsiiay
+
+_. Uonensifiey:
+
+way
+
+  
+
+         
+
+  
+  
+
+  
+
+ae se a :
+
+tt RR tt ent ng
+
+Snjye1g juawAed
+
+ 
+
+BOING JOS 86 DUnfeY | RUS aoeq YO aumdey
+
+ULOBLPPLLGBADESOSSEPPOLLOSEOLO Lg
+(MEIA} 9 :e400g5 SITY
+
+   
+
+Sn ‘uBbwoyy ‘epee 907] qd] anap
+SN “Tobe 1907] di
+LE BPL OL 806 tdi
+
+    
+
+  
+
+LLbpasre 99+
+
+wos 2b mGpeanel
+
+HL GS-01 yoyBueg ‘eeyfueg
+SHEA MON|BAU BOOW ZL L-Ze
+MLaseideN yeseiaay
+TUONRUNOIL) L999
+
+   
+
+   
+
+AQLESSLOBOCEECMING ‘01
+
+WOD' SALE LOOPUIW yOoy
+(PHAR Y Tpoulaly juewAeY
+
+        
+   
+
+     
+
+      
+
+paboel uo
+
+ 
+
+A019 HO AEA = ISNOILOV -
+
+tt
+|
+
+96°SE / IBSES
+QsaldidaANn
+
+(pio sAep gps)
+G00Z-01-S0 ‘doy
+{GD0]) OF6 tee caly
+TPo0s0d sOLL
+
+iijssagons -
+
+ 
+
+PayOUWIGe |
+ahed uO Ssispiop
+
+Sb
+june} ujEew08g
+WOO SLueU
+
+WY EE
+OO¢d-F2-70 -do
+Foocaonseald innAccessed From
+203.156.6.158
+203.156.6.215
+203.156.6.29
+203.156.6.18
+203.156.6.191
+203.156.6.180
+203.156.6.243
+203.156.6.121
+203.156.6.127
+203.156.6.102
+203.156.6.102
+203.156.6.102
+203.156.6.115
+203.156.6.115
+203.156.6.115
+203.156.6.24
+203.156.6.42
+203.156.6.146
+203.156.6.215
+203.156.6.187
+96.9.136.115
+203.156.6.150
+203.156.6.252
+203.156.6.136
+203.156.6.246
+203.156.6.67
+203.156.6.62
+203.156.6.42
+203.156.6.233
+203.156.6.9
+203.156.6.9
+203.156.6.29
+203.156.6.29
+203.156.6.129
+203.156.6.12
+203.156.656.149
+203.156.6.34
+203.156.6.28
+203.156.6.163
+203.156.6.184
+203.156.6.81
+203.156.6.241
+203.156.6.241
+203.156.6.12
+203.156.6.94
+203.156.6.94
+203.156.6.94
+203.156.6.214
+
+Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.282 Page 12 of 19
+
+Sheett
+
+Date Result
+
+05/11/09 06:35 AM success
+05/14/09 05:46 PM success
+05/25/09 11:52 PM success
+05/26/09 01:34 AM success
+06/04/09 05:08 AM success
+
+_ 06/12/09 10:26 PM success
+
+06/15/09 12:22 AM success
+06/22/09 06:29 PM success
+07/10/09 09:23 PM success
+07/18/09 07:22 PM success
+07/18/09 09:23 PM success
+07/18/09 09:34 PM success
+07/18/09 10:35 PM success
+07/19/09 04:31 AM success
+07/19/09 05:05 AM success
+07/19/09 07:16 AM success
+07/19/09 11:42 AM success
+07/20/09 04:23 AM success
+07/21/09 02:06 AM success
+07/21/09 02:34 AM success
+07/21/09 02:45 AM success
+07/21/09 03:44 AM success
+07/23/09 01:14 AM success
+07/23/09 05:43 AM success
+07/23/09 06:57 AM success
+07/25/09 07:27 AM success
+08/06/09 12:28 AM success
+08/08/09 11:18 PM success
+08/09/09 08:10 AM success
+08/10/09 01:29 AM success
+08/10/09 02:53 AM success
+08/10/09 02:17 PM success
+08/10/09 07:16 PM success
+08/12/09 08:21 AM success
+08/13/09 08:05 AM success
+08/13/09 08:28 AM success
+08/14/09 12:08 AM success
+08/14/09 07:47 AM success
+08/16/09 08:58 AM success
+08/19/09 07:30 PM success
+08/20/09 01:37 AM success
+08/20/09 03:47 AM success
+08/20/09 03:47 AM success
+08/20/09 07:36 AM success
+08/22/09 09:49 PM success
+08/23/09 12:17 AM success
+08/23/09 12:54 AM success
+08/24/09 11:31 PM success
+
+Page 1Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.283 Page 13 of 19
+
+203.156.6.194
+203.156.6.162
+203.156.6.162
+203.156.6.133
+203.156.6.133
+203.156.6.133
+203,156.6.133
+203.156.6.178
+203.156.6.162
+203.156.6.240
+203.156.6.150
+203.156.6.150
+203.156.6.169
+203.156.6.115
+203.156.6.187
+203.156.6.94
+203.156.6.251
+203.156.6.34
+203.156.6.34
+203.156.6.125
+203.156.6.125
+203.156.6.186
+203.156.6.186
+203.156.6.82
+203.156.6.139
+203.156.6.207
+124.157.215.714
+124.157.196.236
+424.157 .215.14
+124.157.215.126
+124.157.214.103
+203.156.6.33
+124.157.214.227
+124.157.215.165
+203.156.57.104
+118.172.33.70
+203.156.57.13
+203.156.57.173
+203.156.57.182
+203.156.57.193
+208.70.148.81
+203.156.57.193
+203.156.57.203
+124.157.132.220
+203.156.57.221
+208.70.148.81
+203.156.57.229
+203.156.57.229
+203.156.57.231
+
+Sheet
+
+08/24/09 11:41 PM success
+08/26/09 08:36 AM success
+08/26/09 10:51 AM success
+08/27/09 09:21 AM success
+08/27/09 10:11 AM success
+08/27/09 10:43 AM success
+08/30/09 07:48 PM success
+09/03/09 01:47 PM success
+09/06/09 07:18 AM success
+
+09/08/09 09:53 AM unsuccess
+
+09/08/09 09:45 PM success
+09/09/09 03:44 AM success
+09/18/09 06:09 AM success
+10/10/09 10:14 AM success
+10/14/09 04:04 AM success
+10/19/08 10:47 PM success
+11/20/09 08:51 AM success
+11/23/09 09:59 PM success
+11/24/09 09:03 AM success
+11/25/09 12:08 AM success
+11/25/09 10:30 AM success
+12/12/09 09:10 AM success
+42/12/09 09:30 PM success
+42/13/09 09:18 PM success
+12/16/09 08:06 AM success
+12/17/09 08:15 PM success
+12/31/09 06:43 AM success
+01/02/10 08:32 AM success
+01/02/10 10:38 PM success
+01/27/10 08:19 AM success
+02/05/10 08:18 AM success
+02/05/10 06:27 PM success
+02/08/10 07:05 PM success
+02/09/10 05:51 PM success
+02/20/10 12:24 AM success
+03/08/10 12:02 AM success
+03/13/10 12:38 AM success
+04/18/10 10:15 AM success
+04/19/10 08:15 AM success
+04/20/10 10:17 AM success
+04/23/10 03:12 AM success
+04/24/10 03:27 AM success
+04/28/10 12:48 AM success
+04/30/10 10:43 PM success
+04/30/10 10:45 PM success
+05/04/10 04:24 AM success
+05/04/10 04:32 AM success
+05/04/10 07:30 AM success
+05/04/10 11:11 AM success
+
+Page 2Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.284 Page 14 of 19
+
+Sheet
+
+05/04/10 11:24 AM success
+05/04/10 11:40 AM success
+
+124.157.198.190
+124.157.198.190
+
+203.156.57.231
+203.156.57.232
+203.156.57.3
+203.156.57.81
+124.157.137.3
+
+124.157.137.222
+
+203.156.57.123
+98.158.180.233
+203.156.57.137
+203.156.57.89
+203.156.57.89
+203.156.57.89
+203.156.57.89
+203.156.57.89
+203.156.57.89
+76.161.33.58
+203.156.57.89
+203.156.57.89
+203.156.57.89
+76.161.33.58
+76.161.33.58
+203.156.57.89
+76.161.33.58
+203.156.57.89
+203.156.57.89
+
+124.157.132.113
+124.157.132.113
+
+203.156.57.89
+124.157.253.98
+203.156.57.120
+203.156.57.120
+203.156.57.120
+425.24.127.17
+203.156.57.120
+76.161.33.58
+203.156.57.120
+203.156.57.120
+124.157.253.39
+76.161.33.58
+
+05/04/10 07:37 PM success
+05/04/10 09:38 PM success
+05/06/10 10:17 AM success
+05/13/10 07:58 AM success
+05/17/10 10:47 PM success
+05/21/10 12:51 AM success
+05/22/10 03:51 AM success
+06/10/10 09:37 AM success
+06/10/10 08:24 PM success
+06/12/10 09:12 AM success
+
+06/13/10 12:28 AM unsuccess
+
+06/13/10 12:29 AM success
+06/14/10 09:31 PM success
+06/15/10 06:32 AM success
+06/15/10 09:00 AM success
+06/19/10 08:37 AM success
+06/19/10 08:48 AM success
+06/20/10 07:51 AM Success
+06/20/10 09:27 PM success
+06/20/10 09:46 PM success
+06/21/10 07:02 AM success
+06/23/10 08:53 AM success
+06/23/10 08:54 AM success
+07/05/10 08:27 AM success
+07/07/10 09:13 AM success
+07/07/10 08:24 PM success
+07/07/10 09:27 PM success
+07/07/10 10:30 PM success
+07/12/10 07:08 PM success
+07/13/10 12:39 PM success
+07/13/10 09:35 PM success
+07/13/10 10:02 PM success
+07/14/10 12:49 AM success
+07/20/10 08:26 PM success
+07/20/10 08:57 PM success
+07/20/10 10:42 PM success
+07/21/10 08:41 AM success
+07/21/10 08:19 PM success
+08/11/10 08:20 AM success
+
+08/23/10 06:38 PM unsuccess
+08/23/10 06:39 PM unsuccess
+08/23/10 06:39 PM success
+08/29/10 09:27 PM unsuccess
+08/29/10 09:28 PM success
+09/03/10 05:47 AM unsuccess
+09/03/10 05:48 AM success
+09/03/10 06:05 AM success
+
+124.157.253.216
+124.157.253.216
+124.157.253.216
+203.156.57.176
+203.156.57.176
+124.157.132.60
+124.157.132.60
+124.157.132.60
+
+Page 3Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.285 Page 15 of 19
+
+Sheet
+
+124.157.132.60 09/03/10 07:40 AM success
+124.157.132.60 09/03/10 08:22 AM success
+
+203.156.57.60 09/03/10 08:57 PM success
+76.161.33.58 09/05/10 12:09 AM unsuccess
+76.161.33.58 09/05/10 12:22 AM success
+
+203.156.57.60 09/05/10 12:55 AM success
+203.156.577.138 09/05/10 08:34 AM unsuccess
+203.156.57.138 09/05/10 08:34 AM success
+76.161.33.58 09/12/10 10:44 PM unsuccess
+76.161.33.58 09/12/10 10:44 PM success
+203.156.57.142 09/19/10 11:16 PM success
+203.156.57.177 09/28/10 09:51 AM success
+203.156.57.177 09/29/10 09:29 PM success
+203.156.57.177 09/30/10 02:50 AM success
+203.156.57.177 09/30/10 03:13 AM success
+203.156.57.216 40/27/10 11:01 PM success
+
+Page 4Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.286 Page 16 of 19
+
+From: Scott McBreen [scott@name.com|]
+
+Sent: Monday, November 08, 2010 12:11 PM
+
+To: Wemikoff, Steven M.
+
+Ce: Wernz, Matthew H.
+
+Subject: Re: Name.com Civil Investigative Demand Response
+Hi Steve,
+
+The requested details have been provided below. Please let us know if we can be of further assistance.
+Thank you,
+
+Scott McBreen
+Name.com
+
+domains in prestige2008 account:
+
+webonline365.com
+blackfridavdeals2009ads.com
+lackfridav2 les.n
+lackfri | ora
+acaiberrycare.cam
+fastdietdaily.com
+
+lloroi.com
+peoplewhiteteeth.com
+acaiberryhollywood.com
+theworkdaily.com
+
+newsSdiet.com
+all itreport.com
+
+uscreditrepartonline.com
+
+domains in coulombmedia account:
+
+jasonsgotripped.com
+news7health.com
+itrackclicks.com
+nitricoxidemiracles.net
+fF7news.com
+
+careersch ch.
+careerschoalmtch.com
+quotewizardauto.com
+
+cashfrcops.com
+
+S ne
+classsusa.net
+
+classsessusa.com
+trackleady.cam
+studentloansbadcredit.net
+coulombwebassets.com
+radiologictechnologistiobs.ora
+medicalbillinacareers.net
+localn Ghealth.com
+kevinsincomejournal.com
+consumersweeklytips.com
+
+McBreen Attachment BCase 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.287 Page 17 of 19
+
+2beparents.cam
+scholrships4moms.com
+quidetotattooremoval.com
+
+-in nce-coverace.ora
+onlineeducationscout.com
+onlineeducationscout.net
+
+nti ication or
+onlineeducationscout.info
+
+govarantsforwomen.net
+cellulitecreamreview.org
+
+W - h-survery.com
+womens-health-survey.com
+trackstatys.com
+medical-careersus.com
+amysdietstory.co.uk
+amyswiohtlossstory,.com
+
+amysstorvdiet.com
+advestmentmedia.com
+
+advestmentmedia, net
+acvestmentmedia.inf.
+
+advestmentmedia.org
+
+advestmentmedia.me
+advestmen la.tv
+yestm ial
+advestmentmedia.mobi
+advestmentmedia. biz
+medical-assistant-jobs.org
+medi ling m
+medicalbilling180.net
+medicalbillina180.info
+medicalbillina180.ordg
+fa okzvna kerbot.ca
+scholarshiphelp.net
+new6reports.com
+kellyseczematreatment.cam
+Ick! com
+poweredbymagnets.net
+poweredbymaanets.com
+poweredbymaanets. info
+poweredbymaanets.org
+cclead.net
+tv9newstoday.com
+minemjavz m
+Stacysdietblog.com
+healthSnews.tv
+fdx8news.com
+fheoktracking.com
+leadzmachine.com
+newsat6health.cam
+audietnow.com
+premclicktrack.com
+wrinklecreamred.com
+dsptracking.com
+truthabouabslinker.com
+clickbankz.com
+college-grants.org
+jetbids.comCase 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.288 Page 18 of 19
+
+jobarks.com
+consumerheaithwarning.com
+usdietnow.com
+debtinfo2010.com
+securedclick.net
+wrinkleebook.com
+washinatongazette.ora
+washinatongazette.tv
+timesinside.ora
+timesinside.tv
+
+memophisaazettenews.cam
+memphisgqazettenews.net
+memphisaazettenews.org
+memphisaazettenews.tv
+securedlink.net
+linksecured net
+doubledietrules.com
+
+antiagingebook.com
+uscl itderquide.coam
+
+liquidationclick.com
+
+muscletracking.com
+liguidationtrack.com
+liquidationlink.ne
+WEI reports net
+agingreport.net
+eatcleanweiahtloss.net
+eatcleanhow.com
+viiquidationtracking.com
+consumerworksjournal.com
+dicetracking.com
+fbpennvaticti VIEW.C
+eatcleanaustralia.com
+eaticleaniump.com
+weeklyhealthinsiders.cam
+freecouponhunt.com
+lauraweichtiossdiary.com
+ecsecured.com
+brainguizaer.com
+theskinbeautyclinic.net
+wrinkle¢Sebook.com
+teethdentistiump.com
+consumersdigestweekly.tv
+
+Scott McBreen
+
+Domain Operations Manager
+Name.com
+
+scott(@name.com
+
+720.937.6321
+
+On Mon, Nov 8, 2010 at 9:44 AM, Wemikoff, Steven M. <SWER
+
+ 
+
+fic, gov> wrote:
+
+Scott:Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.289 Page 19 of 19
+
+Thanks for your response concerning the FTC’s CID. We have one follow-up request.
+
+Could you please provide a list of all of the domain names registered with Name.com by the accounts identified in your CID
+response: (1) coulombmedia , and (2) prestige2008 ? Response by email is fine if that is more convenient.
+
+Thanks in advance for your assistance. Please do not hesitate to contact me should you have any questions.
+
+- Steve Wernikoff
+_ Federal Trade Commission
+
+312.960.5630

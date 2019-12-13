@@ -1,0 +1,3106 @@
+a3/a2@ase 2:1d:-sy-11GbBARKHE4EJM ECF No. 4-5 fibedpa4/15/11 PagelD.271 Page 1RaGE9 a1
+
+DECLARATION OF SCOTT McBREEN
+PURSUANT TO 28 U.S.C. ' 1746
+
+I, Scott McBreen, depose and say as follows:
+
+\. I, Scott McBreen, have personal knowledge of the facts set forth below and am
+competent to testify as follows:
+
+2. I am the Domain Operations Manager at Name.com, (Name.com), a company that
+provides domain registration services. I have authority to certify the authenticity of the records
+produced by Name.com and attached hereto.
+
+3. The documents produced and attached hereto by Name.com are true copies of
+records of regularly conducted activity that:
+
+a. were made at or near the time of the occurrence of the matters set forth by,
+
+or from information transmitted by, a person with knowledge of those
+
+matters;
+b. were kept in the course of the regularly conducted activity of Name.com;
+and
+Gi. were made by the regularly conducted activity as a regular practice of
+Name.com.
+A, In October 2010, we received a Civil Investigative Demand (CID) from the
+
+Federal Trade Commission (FTC) asking for documents relating to two domain names,
+new6reports.com, and news9diet.com. For the purposes of this declaration, I have been asked to
+limit my statement to the first of these. I was the person at Name.com responsible for gathering
+information and responding to the FTC=s CID.
+
+5. Attached to this declaration as McBreen Attachment A is the first part of
+
+Name.com=s response to the CID. The first two pages provide a summary of the information,
+
+PX 2nao hoape 27bt -ey-116485REE;LIM ECF No. 4-5 fHeg-Q4/15/11 PagelD.272 Page 2@£49 go
+
+with the first page mostly addressing new6reports.com. As that summary states, our records
+show that the site was registered by Cody Low. The associated company is Coulomb Media
+Incorporated, the associated address is 776 Trombley Road, Grosse Point Park, Michigan 48230,
+and the associated email address is coulombmedia@gmail.com. The summary also shows that
+the domain had been registered since May 20, 2010, that it was paid for using a Paypal account
+linked to the gmail account just referred to, and that the user=s IP address was 68.40.106.195. It
+also shows that the domain was pointing to two servers, ns1.coulombmedia.com and
+ns2coulombmedia.com. The page following the summary is a printout of Name.com records
+showing this information, with the exception of the server information. However, I had
+determined the server information by accessing Name.com records electronically.
+
+6. The next four pages, numbered pages 1 through 4, show the dates this account
+was accessed, and the IP addresses from which the account was accessed. The transactions are
+in chronological order, and as can be seen on page 1, it was first accessed on July 21, 2009, and
+as can be seen on page 4, it had continued to be accessed until Novermber 2, 2010, which was
+near the time I compiled this information in responding 10 the FTCss CID.
+
+Vs After providing this information to the FTC, I was then contacted by FTC
+personnel and asked to provide as a follow up, among other things, a list of all the domain names
+registered with Name.com for the coulombmedia account. I responded by email on November 8,
+2010, a copy of which is attached as McBreen Attachment B. The domains associated with
+coulombmedia=s account start on page one of that document and continue to the final page.
+
+(Following that list is a copy of the email I received from the FTC requesting the follow up.)
+
+|Fe*@Q 2 o> 3aa/a2tase 2,b1-Gyv-116h8sREaLJM ECF No. 4-5 fieg-Q4/15/11 PagelD.273 Page 3:a629 g3
+
+I certify under penalty of perjury that the foregoing is true and correct.
+
+Executed on JS Z , 2011.
+
+SCOTT MCBREEN
+Domain Operations Manager
+Name.com
+
+I 3 o> 3Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.274 Page 4of19
+
+name|com
+
+ 
+
+Name.com Inc.
+
+125 Rampart Way
+
+Suite 300
+
+Denver, Colorado 80230
+Telephone: (720) 249-2374
+Fax: (303) 364-3646
+
+Dear Special Agent Anthony Gregory,
+
+Provided in this document is the information requested in civil action demand regarding
+new6reports.com and news9diet.com.
+
+The domain name newé6reports.com was registered by Cody Low. His contact details are as
+follows:
+
+Company Name: Coulomb Media Incorporated
+Contact Name: Cody Low
+
+Address: 776 Trombley Rd.
+
+City/State/Zip: Grosse Pointe Park/MI/48230
+Country: US
+
+Phone: 8669459174
+
+Fax:
+
+Email: coulombmedia@email.com
+
+ 
+
+The domain name is pointing to the name servers ns1.coulombmedia.com and
+ns2.coulombmedia.com. The domain has been registered since 2010-05-20.
+
+The following page provide transaction details involving new6reports.com. The payment was
+made using the Paypal.com account coulombmedia(@gmail.com. The users IP address was
+68.40.106.195.
+
+ 
+
+The following 4 pages contain the dates when Cody Low‘s account was accessed, as well as the
+IP addresses from which the logins occurred.
+
+The domain name news9diet.com was registered by Teerasak Naprasertkul. His contact details
+are as follows:
+Company Name: Kornkanok Naprasertkul
+
+Contact Name: Teerasak Naprasertkul
+Address: 22-112 moo8 Priyaluck Village
+
+McBreen Attachment ACase 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.275 Page5of 19
+
+City/State/Zip: bangkae/bangkok/10160
+Country: TH
+
+Phone: 24554871
+
+Fax:
+
+Email: jakee4S(@gmail.com
+
+The domain name is pointing to the name servers ns] news9diet.com and ns2.news9diet.com.
+The domain has been registered since 2010-04-23.
+
+The following page provide transaction details involving news9diet.com. The payment was
+made using the Paypal.com account mind0013@live.com. The users IP address was
+208.70.148.81.
+
+The following 4 pages contain the dates when Teerasak Naprasertkul’s account was accessed, as
+well as the IP addresses from which the logins occurred.
+
+Please let us know if we can provide any additional details. We would be happy to provide
+further assistance. You are welcome to reach me at scott(@#name.com or directly at 7209376321
+
+Thank you,
+
+Scott McBreenCase 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.276 Page 6 of 19
+
+painjde :snje7ys juswAeg
+
+WOO'SHOUSIGMeL 66k
+
+af tps DDE UR she he one AE ee AS SS OO MOLE! co 8 58 Gy Rene BERS
+
+uo}ayoseq 39M 1X3
+
+sone = AOS] PUNGH = fJEM pues = auyjoaq HO amideg panbely YO S80/G YO PSHESAUN «=: SNOLLOV
+
+LESSCSOPPLODSHLRSIOPPPLecceicoEep
+(BIA) 0 28409 ASTY
+
+sn
+
+'UBBINIA ‘S]U]Og @SSO15 1907] Gd] aNdL
+SN ‘Ivy ‘ajulog assoig) 1907] di}
+
+SEL GOL OP 89 tdi
+
+ 
+
+GOPSOEPINIPERBEEH Te +O!
+
+WOd' 1815 @ PIPSwWqLUOINAD joOoY
+ledABY ipo juswARY
+
+wa
+
+  
+ 
+
+P£LGSP6999" 1+
+
+WOd' /#WG6 ay BIpaLUquiC|nGs
+
+SN OZSr IN HIE BujOd assaip
+"Py Aajquiouy 922
+
+M07] Apo
+
+SUONHBLUUOIU] LODY
+
+ 
+
+AGA UR CS oe La a Se oe O° meh
+junoas|
+
+ 
+
+ 
+
+nfssaoons b
+PSdwusaye |
+368d UO SiBpion
+
+SIE
+juNne| UjBWOg
+woo" aweU
+
+  
+
+99hid WN
+
+DBA SIOUN,
+oo UOWeAsibay:
+ila}]
+
+ 
+
+86°01 / 8601S
+OaidivaA
+
+(plo sAep Gzb)
+6002-21-20 ‘doy
+(W700) ZBEZES saly
+Teeicte tg,
+
+Ned biG
+040¢-64-S0 :dG
+EIPSWiGWoNos iN}Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.277 Page 7 of 19
+
+Sheet
+
+Accessed From Date Result
+
+68.40.170.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.170.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.110.50
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+
+07/21/09 04:21 PM unsuccess
+07/21/09 04:21 PM unsuccess
+07/21/09 04:21 PM success
+07/25/09 01:51 PM unsuccess
+07/25/09 01:51 PM unsuccess
+07/25/09 01:51 PM unsuccess
+07/25/09 01:51 PM success
+07/27/09 09:21 PM unsuccess
+07/27/09 09:21 PM unsuccess
+07/27/09 09:21 PM unsuccess
+07/27/09 09:21 PM success
+08/03/09 07:24 PM unsuccess
+08/03/09 07:24 PM unsuccess
+08/03/09 07:24 PM success
+08/04/09 07:10 PM unsuccess
+08/04/09 07:11 PM success
+08/25/09 04:17 PM success
+10/19/09 07:20 PM unsuccess
+10/19/09 07:20 PM unsuccess
+40/19/09 07:21 PM unsuccess
+10/19/09 07:21 PM unsuccess
+10/19/09 07:21 PM unsuccess
+10/19/09 07:22 PM success
+11/03/09 07:47 PM success
+11/07/09 10:21 AM success
+41/09/09 04:01 PM success
+11/18/09 01:44 PM success
+11/30/09 06:38 PM success
+12/03/09 06:34 PM success
+12/05/09 06:33 PM success
+12/09/09 04:28 PM success
+12/18/09 11:25 AM success
+12/18/09 11:31 AM success
+01/08/10 02:41 PM success
+01/12/10 05:01 PM success
+01/12/10 05:55 PM success
+01/22/10 09:57 AM success
+01/22/10 02:54 PM success
+01/23/10 12:11 PM success
+01/24/10 03:37 PM success
+01/28/10 10:02 PM success
+01/29/10 07:39 PM success .
+01/30/10 12:04 PM success
+01/30/10 07:16 PM success
+01/31/10 10:08 AM success
+02/07/10 01:44 PM success
+02/07/10 02:47 PM success
+02/07/10 10:04 PM success
+
+Page 1Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.278 Page 8 of 19
+
+sheet
+
+68.40.106.195 02/07/10 10:43 PM unsuccess
+
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+24.180.166.166
+24.180.166.166
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+75.133.24.223
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+
+02/07/10 10:44 PM success
+02/08/10 06:17 PM success
+02/08/10 07:59 PM success
+02/25/10 11:04 PM success
+03/04/10 05:28 PM success
+03/08/10 08:53 PM success
+03/08/10 10:06 PM success
+03/10/10 02:09 PM success
+03/10/10 05:20 PM success
+03/20/10 01:24 PM success
+03/20/10 08:51 PM success
+03/25/10 01:42 PM success
+03/25/10 07:31 PM success
+03/27/10 07:43 PM success
+03/31/10 01:39 PM success
+04/04/10 05:56 PM success
+04/07/10 04:03 PM success
+04/09/10 01:09 PM success
+04/09/10 03:39 PM success
+04/11/10 10:33 AM success
+04/11/10 12:32 PM success
+04/11/10 09:17 PM success
+04/13/10 02:24 AM success
+04/13/10 04:57 AM success
+04/16/10 05:31 PM success
+04/16/10 09:03 PM success
+04/24/10 08:41 AM success
+04/25/10 07:40 PM success
+04/27/10 12:27 PM success
+05/01/10 08:10 PM success
+05/01/10 09:38 PM success
+05/02/10 02:37 PM success
+
+05/02/10 06:15 PM unsuccess
+
+05/02/10 06:15 PM success
+05/03/10 11:21 PM success
+05/09/10 04:14 PM success
+05/11/10 10:25 PM success
+05/13/10 02:42 PM success
+05/19/10 09:10 PM success
+05/24/10 08:06 AM success
+06/01/10 01:16 AM success
+06/05/10 02:36 PM success
+06/05/10 05:42 PM success
+06/12/10 05:21 PM success
+06/12/10 05:26 PM success
+06/13/10 11:35 PM success
+06/19/10 11:00 PM success
+06/24/10 10:23 AM success
+
+Page 2Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.279 Page 9 of 19
+
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+68.40.106.195
+
+06/25/10 06:53 PM success
+06/26/10 01:00 PM success
+07/13/10 10:53 PM success
+07/14/10 09:49 PM success
+07/15/10 04:29 AM success
+07/15/10 02:24 PM success
+07/18/10 09:32 PM success
+07/29/10 11:08 AM success
+07/29/10 12:26 PM success
+07/29/10 02:39 PM success
+07/29/10 02:40 PM success
+07/30/10 11:53 PM success
+07/31/10 12:22 AM success
+08/01/10 01:34 PM success
+08/04/10 02:05 PM success
+08/05/10 12:54 AM success
+08/06/10 11:33 PM success
+08/13/10 08:04 PM success
+08/30/10 07:35 PM success
+08/30/10 08:11 PM success
+09/01/10 05:43 PM success
+09/04/10 11:24 AM success
+
+09/04/10 11:49 AM unsuccess
+
+09/04/10 11:50 AM success
+09/10/10 02:56 PM success
+09/14/10 01:24 AM success
+09/16/10 08:23 PM success
+09/20/10 11:57 PM success
+09/23/10 04:59 PM success
+09/30/10 10:59 AM success
+09/30/10 06:12 PM success
+09/30/10 09:43 PM success
+10/06/10 06:26 AM success
+10/06/10 06:51 AM success
+10/06/10 07:40 PM success
+10/08/10 12:20 AM success
+10/08/10 12:41 PM success
+10/10/10 10:50 PM success
+10/14/10 04:19 PM success
+10/14/10 04:54 PM success
+10/18/10 02:52 AM success
+10/19/10 04:29 AM success
+10/19/10 11:27 AM success
+10/20/10 02:19 PM success
+10/21/10 12:20 AM success
+10/21/10 04:01 PM success
+10/21/10 09:50 PM success
+10/22/10 01:59 PM success
+10/23/10 07:16 AM success
+
+Sheet1
+
+Page 3Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.280 Page 10 of 19
+
+Sheet
+68.40.106.195 10/24/10 07:44 PM success
+68.40.106.195 10/25/10 11:09 PM success
+68.40.106.195 10/27/10 12:50 PM success
+
+224.236.175.252 10/30/10 12:15 AM success
+224.236.175.252 10/30/10 08:33 PM success
+64.202.58.3 41/02/10 04:09 PM success
+
+Page 4ge 11 of 19
+
+Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 _PagelD.281 Pa
+
+paunjdeg
+
+         
+
+__ Woo"suyjUoWOdepalosn
+
+USI Nias PSR SED DOA DS OMOUT:
+
+AUOD POdeNIpas0Eyye.
+WOO}aIDESA\eU
+
+       
+
+ 
+
+ 
+
+BBR
+Bid JXZ
+
+       
+
+ 
+
+uondwosag
+
+ 
+
+ajololo
+
+junoosig
+
+UoReASIiay
+
+ee UO RASIDS
+UOReAsiiay
+
+_. Uonensifiey:
+
+way
+
+  
+
+         
+
+  
+  
+
+  
+
+ae se a :
+
+tt RR tt ent ng
+
+Snjye1g juawAed
+
+ 
+
+BOING JOS 86 DUnfeY | RUS aoeq YO aumdey
+
+ULOBLPPLLGBADESOSSEPPOLLOSEOLO Lg
+(MEIA} 9 :e400g5 SITY
+
+   
+
+Sn ‘uBbwoyy ‘epee 907] qd] anap
+SN “Tobe 1907] di
+LE BPL OL 806 tdi
+
+    
+
+  
+
+LLbpasre 99+
+
+wos 2b mGpeanel
+
+HL GS-01 yoyBueg ‘eeyfueg
+SHEA MON|BAU BOOW ZL L-Ze
+MLaseideN yeseiaay
+TUONRUNOIL) L999
+
+   
+
+   
+
+AQLESSLOBOCEECMING ‘01
+
+WOD' SALE LOOPUIW yOoy
+(PHAR Y Tpoulaly juewAeY
+
+        
+   
+
+     
+
+      
+
+paboel uo
+
+ 
+
+A019 HO AEA = ISNOILOV -
+
+tt
+|
+
+96°SE / IBSES
+QsaldidaANn
+
+(pio sAep gps)
+G00Z-01-S0 ‘doy
+{GD0]) OF6 tee caly
+TPo0s0d sOLL
+
+iijssagons -
+
+ 
+
+PayOUWIGe |
+ahed uO Ssispiop
+
+Sb
+june} ujEew08g
+WOO SLueU
+
+WY EE
+OO¢d-F2-70 -do
+Foocaonseald innAccessed From
+203.156.6.158
+203.156.6.215
+203.156.6.29
+203.156.6.18
+203.156.6.191
+203.156.6.180
+203.156.6.243
+203.156.6.121
+203.156.6.127
+203.156.6.102
+203.156.6.102
+203.156.6.102
+203.156.6.115
+203.156.6.115
+203.156.6.115
+203.156.6.24
+203.156.6.42
+203.156.6.146
+203.156.6.215
+203.156.6.187
+96.9.136.115
+203.156.6.150
+203.156.6.252
+203.156.6.136
+203.156.6.246
+203.156.6.67
+203.156.6.62
+203.156.6.42
+203.156.6.233
+203.156.6.9
+203.156.6.9
+203.156.6.29
+203.156.6.29
+203.156.6.129
+203.156.6.12
+203.156.656.149
+203.156.6.34
+203.156.6.28
+203.156.6.163
+203.156.6.184
+203.156.6.81
+203.156.6.241
+203.156.6.241
+203.156.6.12
+203.156.6.94
+203.156.6.94
+203.156.6.94
+203.156.6.214
+
+Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.282 Page 12 of 19
+
+Sheett
+
+Date Result
+
+05/11/09 06:35 AM success
+05/14/09 05:46 PM success
+05/25/09 11:52 PM success
+05/26/09 01:34 AM success
+06/04/09 05:08 AM success
+
+_ 06/12/09 10:26 PM success
+
+06/15/09 12:22 AM success
+06/22/09 06:29 PM success
+07/10/09 09:23 PM success
+07/18/09 07:22 PM success
+07/18/09 09:23 PM success
+07/18/09 09:34 PM success
+07/18/09 10:35 PM success
+07/19/09 04:31 AM success
+07/19/09 05:05 AM success
+07/19/09 07:16 AM success
+07/19/09 11:42 AM success
+07/20/09 04:23 AM success
+07/21/09 02:06 AM success
+07/21/09 02:34 AM success
+07/21/09 02:45 AM success
+07/21/09 03:44 AM success
+07/23/09 01:14 AM success
+07/23/09 05:43 AM success
+07/23/09 06:57 AM success
+07/25/09 07:27 AM success
+08/06/09 12:28 AM success
+08/08/09 11:18 PM success
+08/09/09 08:10 AM success
+08/10/09 01:29 AM success
+08/10/09 02:53 AM success
+08/10/09 02:17 PM success
+08/10/09 07:16 PM success
+08/12/09 08:21 AM success
+08/13/09 08:05 AM success
+08/13/09 08:28 AM success
+08/14/09 12:08 AM success
+08/14/09 07:47 AM success
+08/16/09 08:58 AM success
+08/19/09 07:30 PM success
+08/20/09 01:37 AM success
+08/20/09 03:47 AM success
+08/20/09 03:47 AM success
+08/20/09 07:36 AM success
+08/22/09 09:49 PM success
+08/23/09 12:17 AM success
+08/23/09 12:54 AM success
+08/24/09 11:31 PM success
+
+Page 1Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.283 Page 13 of 19
+
+203.156.6.194
+203.156.6.162
+203.156.6.162
+203.156.6.133
+203.156.6.133
+203.156.6.133
+203,156.6.133
+203.156.6.178
+203.156.6.162
+203.156.6.240
+203.156.6.150
+203.156.6.150
+203.156.6.169
+203.156.6.115
+203.156.6.187
+203.156.6.94
+203.156.6.251
+203.156.6.34
+203.156.6.34
+203.156.6.125
+203.156.6.125
+203.156.6.186
+203.156.6.186
+203.156.6.82
+203.156.6.139
+203.156.6.207
+124.157.215.714
+124.157.196.236
+424.157 .215.14
+124.157.215.126
+124.157.214.103
+203.156.6.33
+124.157.214.227
+124.157.215.165
+203.156.57.104
+118.172.33.70
+203.156.57.13
+203.156.57.173
+203.156.57.182
+203.156.57.193
+208.70.148.81
+203.156.57.193
+203.156.57.203
+124.157.132.220
+203.156.57.221
+208.70.148.81
+203.156.57.229
+203.156.57.229
+203.156.57.231
+
+Sheet
+
+08/24/09 11:41 PM success
+08/26/09 08:36 AM success
+08/26/09 10:51 AM success
+08/27/09 09:21 AM success
+08/27/09 10:11 AM success
+08/27/09 10:43 AM success
+08/30/09 07:48 PM success
+09/03/09 01:47 PM success
+09/06/09 07:18 AM success
+
+09/08/09 09:53 AM unsuccess
+
+09/08/09 09:45 PM success
+09/09/09 03:44 AM success
+09/18/09 06:09 AM success
+10/10/09 10:14 AM success
+10/14/09 04:04 AM success
+10/19/08 10:47 PM success
+11/20/09 08:51 AM success
+11/23/09 09:59 PM success
+11/24/09 09:03 AM success
+11/25/09 12:08 AM success
+11/25/09 10:30 AM success
+12/12/09 09:10 AM success
+42/12/09 09:30 PM success
+42/13/09 09:18 PM success
+12/16/09 08:06 AM success
+12/17/09 08:15 PM success
+12/31/09 06:43 AM success
+01/02/10 08:32 AM success
+01/02/10 10:38 PM success
+01/27/10 08:19 AM success
+02/05/10 08:18 AM success
+02/05/10 06:27 PM success
+02/08/10 07:05 PM success
+02/09/10 05:51 PM success
+02/20/10 12:24 AM success
+03/08/10 12:02 AM success
+03/13/10 12:38 AM success
+04/18/10 10:15 AM success
+04/19/10 08:15 AM success
+04/20/10 10:17 AM success
+04/23/10 03:12 AM success
+04/24/10 03:27 AM success
+04/28/10 12:48 AM success
+04/30/10 10:43 PM success
+04/30/10 10:45 PM success
+05/04/10 04:24 AM success
+05/04/10 04:32 AM success
+05/04/10 07:30 AM success
+05/04/10 11:11 AM success
+
+Page 2Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.284 Page 14 of 19
+
+Sheet
+
+05/04/10 11:24 AM success
+05/04/10 11:40 AM success
+
+124.157.198.190
+124.157.198.190
+
+203.156.57.231
+203.156.57.232
+203.156.57.3
+203.156.57.81
+124.157.137.3
+
+124.157.137.222
+
+203.156.57.123
+98.158.180.233
+203.156.57.137
+203.156.57.89
+203.156.57.89
+203.156.57.89
+203.156.57.89
+203.156.57.89
+203.156.57.89
+76.161.33.58
+203.156.57.89
+203.156.57.89
+203.156.57.89
+76.161.33.58
+76.161.33.58
+203.156.57.89
+76.161.33.58
+203.156.57.89
+203.156.57.89
+
+124.157.132.113
+124.157.132.113
+
+203.156.57.89
+124.157.253.98
+203.156.57.120
+203.156.57.120
+203.156.57.120
+425.24.127.17
+203.156.57.120
+76.161.33.58
+203.156.57.120
+203.156.57.120
+124.157.253.39
+76.161.33.58
+
+05/04/10 07:37 PM success
+05/04/10 09:38 PM success
+05/06/10 10:17 AM success
+05/13/10 07:58 AM success
+05/17/10 10:47 PM success
+05/21/10 12:51 AM success
+05/22/10 03:51 AM success
+06/10/10 09:37 AM success
+06/10/10 08:24 PM success
+06/12/10 09:12 AM success
+
+06/13/10 12:28 AM unsuccess
+
+06/13/10 12:29 AM success
+06/14/10 09:31 PM success
+06/15/10 06:32 AM success
+06/15/10 09:00 AM success
+06/19/10 08:37 AM success
+06/19/10 08:48 AM success
+06/20/10 07:51 AM Success
+06/20/10 09:27 PM success
+06/20/10 09:46 PM success
+06/21/10 07:02 AM success
+06/23/10 08:53 AM success
+06/23/10 08:54 AM success
+07/05/10 08:27 AM success
+07/07/10 09:13 AM success
+07/07/10 08:24 PM success
+07/07/10 09:27 PM success
+07/07/10 10:30 PM success
+07/12/10 07:08 PM success
+07/13/10 12:39 PM success
+07/13/10 09:35 PM success
+07/13/10 10:02 PM success
+07/14/10 12:49 AM success
+07/20/10 08:26 PM success
+07/20/10 08:57 PM success
+07/20/10 10:42 PM success
+07/21/10 08:41 AM success
+07/21/10 08:19 PM success
+08/11/10 08:20 AM success
+
+08/23/10 06:38 PM unsuccess
+08/23/10 06:39 PM unsuccess
+08/23/10 06:39 PM success
+08/29/10 09:27 PM unsuccess
+08/29/10 09:28 PM success
+09/03/10 05:47 AM unsuccess
+09/03/10 05:48 AM success
+09/03/10 06:05 AM success
+
+124.157.253.216
+124.157.253.216
+124.157.253.216
+203.156.57.176
+203.156.57.176
+124.157.132.60
+124.157.132.60
+124.157.132.60
+
+Page 3Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.285 Page 15 of 19
+
+Sheet
+
+124.157.132.60 09/03/10 07:40 AM success
+124.157.132.60 09/03/10 08:22 AM success
+
+203.156.57.60 09/03/10 08:57 PM success
+76.161.33.58 09/05/10 12:09 AM unsuccess
+76.161.33.58 09/05/10 12:22 AM success
+
+203.156.57.60 09/05/10 12:55 AM success
+203.156.577.138 09/05/10 08:34 AM unsuccess
+203.156.57.138 09/05/10 08:34 AM success
+76.161.33.58 09/12/10 10:44 PM unsuccess
+76.161.33.58 09/12/10 10:44 PM success
+203.156.57.142 09/19/10 11:16 PM success
+203.156.57.177 09/28/10 09:51 AM success
+203.156.57.177 09/29/10 09:29 PM success
+203.156.57.177 09/30/10 02:50 AM success
+203.156.57.177 09/30/10 03:13 AM success
+203.156.57.216 40/27/10 11:01 PM success
+
+Page 4Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.286 Page 16 of 19
+
+From: Scott McBreen [scott@name.com|]
+
+Sent: Monday, November 08, 2010 12:11 PM
+
+To: Wemikoff, Steven M.
+
+Ce: Wernz, Matthew H.
+
+Subject: Re: Name.com Civil Investigative Demand Response
+Hi Steve,
+
+The requested details have been provided below. Please let us know if we can be of further assistance.
+Thank you,
+
+Scott McBreen
+Name.com
+
+domains in prestige2008 account:
+
+webonline365.com
+blackfridavdeals2009ads.com
+lackfridav2 les.n
+lackfri | ora
+acaiberrycare.cam
+fastdietdaily.com
+
+lloroi.com
+peoplewhiteteeth.com
+acaiberryhollywood.com
+theworkdaily.com
+
+newsSdiet.com
+all itreport.com
+
+uscreditrepartonline.com
+
+domains in coulombmedia account:
+
+jasonsgotripped.com
+news7health.com
+itrackclicks.com
+nitricoxidemiracles.net
+fF7news.com
+
+careersch ch.
+careerschoalmtch.com
+quotewizardauto.com
+
+cashfrcops.com
+
+S ne
+classsusa.net
+
+classsessusa.com
+trackleady.cam
+studentloansbadcredit.net
+coulombwebassets.com
+radiologictechnologistiobs.ora
+medicalbillinacareers.net
+localn Ghealth.com
+kevinsincomejournal.com
+consumersweeklytips.com
+
+McBreen Attachment BCase 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.287 Page 17 of 19
+
+2beparents.cam
+scholrships4moms.com
+quidetotattooremoval.com
+
+-in nce-coverace.ora
+onlineeducationscout.com
+onlineeducationscout.net
+
+nti ication or
+onlineeducationscout.info
+
+govarantsforwomen.net
+cellulitecreamreview.org
+
+W - h-survery.com
+womens-health-survey.com
+trackstatys.com
+medical-careersus.com
+amysdietstory.co.uk
+amyswiohtlossstory,.com
+
+amysstorvdiet.com
+advestmentmedia.com
+
+advestmentmedia, net
+acvestmentmedia.inf.
+
+advestmentmedia.org
+
+advestmentmedia.me
+advestmen la.tv
+yestm ial
+advestmentmedia.mobi
+advestmentmedia. biz
+medical-assistant-jobs.org
+medi ling m
+medicalbilling180.net
+medicalbillina180.info
+medicalbillina180.ordg
+fa okzvna kerbot.ca
+scholarshiphelp.net
+new6reports.com
+kellyseczematreatment.cam
+Ick! com
+poweredbymagnets.net
+poweredbymaanets.com
+poweredbymaanets. info
+poweredbymaanets.org
+cclead.net
+tv9newstoday.com
+minemjavz m
+Stacysdietblog.com
+healthSnews.tv
+fdx8news.com
+fheoktracking.com
+leadzmachine.com
+newsat6health.cam
+audietnow.com
+premclicktrack.com
+wrinklecreamred.com
+dsptracking.com
+truthabouabslinker.com
+clickbankz.com
+college-grants.org
+jetbids.comCase 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.288 Page 18 of 19
+
+jobarks.com
+consumerheaithwarning.com
+usdietnow.com
+debtinfo2010.com
+securedclick.net
+wrinkleebook.com
+washinatongazette.ora
+washinatongazette.tv
+timesinside.ora
+timesinside.tv
+
+memophisaazettenews.cam
+memphisgqazettenews.net
+memphisaazettenews.org
+memphisaazettenews.tv
+securedlink.net
+linksecured net
+doubledietrules.com
+
+antiagingebook.com
+uscl itderquide.coam
+
+liquidationclick.com
+
+muscletracking.com
+liguidationtrack.com
+liquidationlink.ne
+WEI reports net
+agingreport.net
+eatcleanweiahtloss.net
+eatcleanhow.com
+viiquidationtracking.com
+consumerworksjournal.com
+dicetracking.com
+fbpennvaticti VIEW.C
+eatcleanaustralia.com
+eaticleaniump.com
+weeklyhealthinsiders.cam
+freecouponhunt.com
+lauraweichtiossdiary.com
+ecsecured.com
+brainguizaer.com
+theskinbeautyclinic.net
+wrinkle¢Sebook.com
+teethdentistiump.com
+consumersdigestweekly.tv
+
+Scott McBreen
+
+Domain Operations Manager
+Name.com
+
+scott(@name.com
+
+720.937.6321
+
+On Mon, Nov 8, 2010 at 9:44 AM, Wemikoff, Steven M. <SWER
+
+ 
+
+fic, gov> wrote:
+
+Scott:Case 2:11-cv-11618-RHC-LJM ECF No. 4-5 filed 04/15/11 PagelD.289 Page 19 of 19
+
+Thanks for your response concerning the FTC’s CID. We have one follow-up request.
+
+Could you please provide a list of all of the domain names registered with Name.com by the accounts identified in your CID
+response: (1) coulombmedia , and (2) prestige2008 ? Response by email is fine if that is more convenient.
+
+Thanks in advance for your assistance. Please do not hesitate to contact me should you have any questions.
+
+- Steve Wernikoff
+_ Federal Trade Commission
+
+312.960.5630Case: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 1 of 26 PagelD #:227
+
+CERTIFICATE OF AUTHENTICITY
+OF
+BUSINESS RECORDS
+I, Keena R. Willis, declare, pursuant to Title 28, U.S.C. § 1746, that Iam
+employed by GoDaddy.com, Inc. and that my official title or position is Sr.
+Paralegal/Compliance Manager. I further declare that I am a custodian of records of said
+business and that each of the records attached hereto is the original or a duplicate (exact
+
+photocopy) of an original record in the custody of GoDaddy.com, Inc.
+
+I further state that:
+1. Such records were made, at or near the times of the occurrence of the
+matters set forth by (or from information transmitted by) a person with
+
+knowledge of those matters;
+
+2 such records are kept in the course of a regularly conducted business
+activity;
+the business activity made such records as a regular practice; and
+
+4. if such records are not the originals, such records are duplicates of the
+originals.
+
+I declare under penalty of perjury the forgoing is true and correct.
+
+Dated this G ZL day of November 2010.
+
+   
+
+Keéna R. Willis,
+Sr. Paralegal/Compliance Manager
+GoDaddy.com, Inc.
+
+14455 N. Hayden Road, Suite 219
+Scottsdale, Arizona 85260Case: 1:11-cv-02484 Docume faet-4 filha Py AatiidrPpage 2 of 26 PagelD #:228
+
+Shopper Id:
+Login Name:
+First Name:
+
+Middle Name:
+
+Last Name:
+Company:
+Address1:
+Address2:
+City:
+State/Prov:
+Postal Code:
+Country:
+Phone’:
+Phone2:
+Email:
+
+Date Created:
+
+7184052
+domainsatintermarkmedia
+Domain
+
+Admin
+Intermark Media
+135 Crossways Park Dr
+
+Woodbury
+NY
+
+11797
+
+us
+6317191250
+
+domains@intermarkmedia.com
+12/9/2005 1:46:43 PMCase: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 3 of 26 PagelD #:229
+
+= 3
+5 :
+oS me
+é :
+R
+oe
+i
+om
+i
+
+a
+ti
+So
+N
+No)
+So
+oO
+oO
+—_
+
+O9ESZ8LLI
+
+OL0C/VC/8
+
+LL0C/O¢/9
+
+TSOP8IL ‘pl Joddoys J0J ys] urewiod
+
+600C/7C/8
+600C/I/L
+600C/0¢/9
+
+oS
+D
+=
+Ss
+o
+bas
+0
+
+ 
+
+SATOV 0)
+SATOV 0)
+SATOV 0)
+
+ 
+
+ST1I}E}S
+
+ 
+
+LHN AYOLSSSOTLHDOIAMSANV
+WOO'eTTHANNVHOSMANAI
+
+=
+©
+0
+ee)
+=
+[1
+Z
+a
+—
+g
+<
+ro
+0
+Nn
+[1
+Z
+
+Bg Z100uTHLONV snr
+JUIUN, UIVUOGCase: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 4 of 26 PagelD #:230
+
+m~ m~- M@- we erereoeoenaeace7#5nrtemhlc[;cmlCmUcrUOUUCUcUOUlCUNN CU
+rr rT tT TFT TT TFT TF FT TFT TFT TT TT CON
+Ma DNDN NHN NHDD DDH DA AN TF
+SO rs res NC NCC nla nan NC NCCI CL OCS
+onnnnnnnnn nn 1) ND ND WD
+AHHH AHO HO HOH HH OH CO W
+|
+NAN AnananananieanannrianWi=aa anaanarieanana an arn
+
+CI 49Pp4z0O
+
+LLOC/v/C
+LL0C/8¢/T
+LL0C/8¢/T
+LL0C/8¢/T
+LL0C/8¢/T
+L10C/8¢/T
+L10C/8¢/T
+L10C/8¢/T
+L10C/8¢/T
+L10C/8¢/T
+L10C/8¢/I
+L10C/8¢/I
+L10C/8¢/I
+L10C/8¢/I
+L10C/8¢/I
+
+|
+—_—
+
+CSOPS8IL ‘PI Joddoys JoJ ys] Ulewog
+
+O10C/V/C
+
+O10C/8¢/T
+O10C/8¢/T
+O10C/8¢/T
+O10C/8¢/T
+
+  
+
+po}woty
+
+ 
+
+oO oO oO oO oO oO oO
+a oe
+~ ~ ~ ~ ~ ~ ~
+Oo Oo oO oO oO oO oO
+<<«<«<« << <
+S S oS oS oS oS oS
+
+SN}B}S
+
+HJ NOLLNaAaeadsNsOTOdNOdAAaA
+WOO AYOLSSSAOONSSANVLIYE
+
+AL ATIVGPSMAN
+
+WOO SMANLYOdSXA
+
+AL 9LVSMANSEN
+
+WOO ATIVGSAWILLANUALNI
+
+LAIN TVINOLIGAHLTVSHACIMATYOM
+WOO 9LVSMANSAN
+
+WOO LSOdTV.LNIGNVORENV
+
+WOO ALLAZVDHLTVAHNVOIMENV
+WOO aWNINVLSVHATUDOACAW AMM
+WOO AYOLSSAHONOLASIMAW
+
+WOO DO THNOILVONGAHDNOUYHLSSAOONSAW
+
+WOO G4 LVONGALODIMOH
+
+WOO AYOLSNOILVONGAHONOUHLSSHOONSAN
+
+WOO AYOLSAHOIAOLSOVAUAN
+
+  
+
+JUIBN] UlBWIOGDomain List for Shopper Id: 7184052
+
+Order ID
+
+  
+
+ 
+
+R
+o
+=
+{
+kel
+
+Created
+
+ 
+
+Status
+
+  
+
+Domain Name
+
+a
+a
+a7
+a7
+a7
+a
+a
+a
+a
+a
+a7
+a
+a
+7
+4/18/2012
+2/8/2011
+
+Case: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 5 of 26 PageID #:231
+
+220877693
+220912199
+
+4/18/2001
+2/8/2010
+
+0 Active
+
+CONSUMERPRODUCTSDAILY.COMCase: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 6 of 26 PagelD #:232
+
+Mm MW WM
+NnaAaARRaR
+-=-[UlUlC Trl lc UOT llc OCCU)
+~ me hR he +t
+0 0 C0 0© ©
+Oo 0 © © +
+~~ me rR
+ma ma NA mM oO
+NAN ANA AN
+= lle lll
+= =| lc lel
+sooocmUCcOlUCcD
+Naaaa
+~~ >—dUdUmDDLrDULUCOUCOCti‘Q$QE
+CSCS GS GO
+NaAaAaAAN
+~~ —_~ ™_~ ™
+a i i
+ooocmUcCOlUCcFO
+=——lClNlCUeT lll
+Sa ce oc co sc
+Naaaa
+~> >—dUdUmDDLUlUCCCeOC—i—‘“S™LS
+CSCS GS
+NA AAA
+~~ > — OOX~Er — — i Srl ee Se
+~~ i i
+
+Fan anaa
+=— nN DW WD
+Mm HN DN DW DW
+N OO OO WO O
+=— lcm OJ JM]—i |}
+= Om J]—COia|S]
+mm DMD YD MY
+Nn mn mM |
+NNN NAN AN
+
+ 
+
+= SoS
+= Ss
+oO Oo &
+N A AN
+SS
+i rr
+== Ss
+~~ ~~ os
+a i rr
+
+ 
+
+a
+
+TSOP8IL ‘pl Joddoys J0J ys] urewiod
+
+So
+S-= llrllOrlrel lol ell
+oO oOo Oo Oo O
+NNN ANN
+~~ —_>_ > > >
+attr + + +
+S-= lllTr  llerlretll lol ell
+~~ —_>_ > > >
+a i i i i
+
+   
+
+po}woly
+
+oO oO oO
+2
+~ ~ ~
+oO oO oO
+<<«<
+oS oS oS
+
+SATOV 0)
+SATOV 0)
+
+SATOV 0)
+SATOV 0)
+SATOV 0)
+SATOW 0)
+SATOW 0)
+
+ST1I}E}S
+
+WOOD ACVaAa- aA LS VSIG-da
+
+WOO AOOTTAIOAYS qHfAHLLad
+WOO 'SdHLSCNIAGC VA aHOVAE
+WOO'SSH TV AOO TAHHININOSAAL
+WOO'S OO TAYS eal ANLODIMOH
+
+WOO 'SHLVDILSHANI6 TANNVHO
+WOO" TVDOTCTANNVHO
+
+WOO LHIGSNVDOOHAAOOUd
+WOO LVHEHLIVAH6TANNVHO
+WOO 8LVSMHNXCd4
+
+ 
+
+JUIBN] UlBWIOGCase: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 7 of 26 PagelD #:233
+
+Receipt # 252310289
+Shopper # 7184052
+ey et
+Reseller:
+Date: 7/2/2010 5:48:14 AM By billing agent via billing agent
+Source Code: from_app: wsc_dr
+
+Shipping Information Billing Information
+David Torre David Torre
+135 Crossways Park Dr 135 Crossways Park Dr
+Woodbury, NY 11797 us Woodbury, NY 11797 us
+Daytime Phone: 6317191250 Daytime Phone: 6317191250
+Evening Phone: Evening Phone:
+Fax: Fax:
+domains@intermarkmedia.com domains@intermarkmedia.com
+IF: S
+Shipped via —
+
+Paid: Credit Card
+
+David Torre
+
+AMEX Exp. /
+
+|
+
+Our Charges will appear on their credit card statement in the name:
+"GODADDY.COM"
+Processor: AMEXDirect-GD
+IS OA 2
+
+i reas antes Ee eae a pee
+Unit Today's Extra Total
+
+ 
+
+ 
+
+ 
+
+ 
+
+RowiD Label Name Price Price Qty Disc. Price
+
+0 10101-4 .COM Domain Name Renewal - t Year (recurring) $7.69 $7.69 1 $.00 57.87
+Domain: MYNEWSCHANNEL13.COM recurring
+Show Item Attributes
+
+1 17001-1 Private Registration Services - Renewal $8.99 $8.99 1 §.00 $8.99
+Length: 1 year(s) annual
+
+Domain: MYNEWSCHANNEL13.COM
+Show Item Attributes
+ig ecole ae ee
+Subtotal: $16.86
+Shipping & Handling:  $.00
+Tax: §$.00
+Total: $16.86
+
+i i
+
+Confidential Treatment
+
+Requested by
+GD 009695 The Go Daddy GroupCase: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 8 of 26 PagelD #:234
+
+Receipt # 251979378
+Shopper # 7184052
+SSA am A SS ST 5" re ej
+Reseller:
+Date: 7/1/2010 3:01:53 AM By billing agent via billing agent
+Source Code: from_app: wsc_dr
+
+Shipping Information Billing Information
+David Torre David Torre
+135 Crossways Park Dr 135 Crossways Park Dr
+Woodbury, NY 11797 us Woodbury, NY 11797 us
+Daytime Phone: 6317191250 Daytime Phone: 6317191250
+Evening Phone: Evening Phone:
+Fax: Fax:
+domains@intermarkmedia.com domains@intermarkmedia.com
+iPos:
+Shipped via —
+
+Paid: Credit Card
+
+David Torre
+
+AMEX Exp. /
+
+Our Charges will appear on their credit card statement in the name:
+"GODADDY.COM"
+Processor: AMEXDirect-GD
+Sa 0 EF
+ee eee
+
+Unit Today's Extra Total
+
+ 
+
+ 
+
+Row!D Label Name Price Price Qty Disc. Price
+
+0 10101-1 .COM Domain Name Renewal - 1 Year (recurring) 37.69 $7.69 14 $.00 57.87
+Domain: FREEINSTAQUOTE.COM recurring
+4 Show Item Attributes
+
+1 12012-7 .NET Domain Name Renewal - 1 Year (recurring) $6.49 $6.49 1 $.00 $6.67
+Domain: SEARCHINGSINGLES.NET recurring
+Id) Show litem Attributes
+
+2 1010i-1 .COM Domain Name Renewal - 1 Year (recurring) $7.69 $7.69 1 $00 $7.87
+Domain: NEWSCHANNEL4NEWS.COM recurring
+& Show Item Attributes
+
+a 17001-1 Private Registration Services - Renewal $8.99 $8.99 1 $.00 $8.99
+Length: 1 year(s} annual
+
+Domain: NEWSCHANNEL4NEWS.COM
+Show Item Attributes
+op — in ee eg et
+Subtotal: $31.40
+Shipping & Handling:  $.00
+Tax: $.00
+Total: $31.40
+
+Confidential Treatment
+Requested by
+The Go Daddy Group
+
+GD 009696Case: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 9 of 26 PagelD #:235
+
+Receipt # 250649453
+Shopper # 7184052
+
+OT EEE OEE
+
+Reseller:
+Date: 6/25/2010 3:23:22 AM By billing agent via billing agent
+Source Code: from_app: wsc_dr
+
+Shipping Information Billing {nformation
+David Torre David Torre
+155 Albany St 155 Albany St
+Deer Park, NY 11729 us Deer Park, NY 11729 us
+Daytime Phone: 6317191250 Daytime Phone: 6317191250
+Evening Phone: Evening Phone:
+
+Fax: Fax:
+david@intermarkmedia.com david@intermarkmedia.cam
+IPE
+Shipped via --
+
+Paid: Credit Card
+David Torre
+
+AMEX =m f
+
+Our Charges will appear on their credit card statement in the name:
+
+"GODADDY.COM"
+Processor: AMEXDirect-GD
+
+FN SERS TES EE a TET TG
+
+ 
+
+RowlD Label!
+0 10101-1
+‘1 47001-1
+
+2 10067-14
+
+Unit Taday’s Extra Total
+
+Name Price
+.COM Domain Name Renewal - 1 Year (recurring) $7.29
+Domain: YOURONLINENEWSTODAY.COM recurring
+Show ltem Attributes
+
+Private Registration Services - Renewal $8.99
+Length: 1 year(s) annual
+
+Domain: YOURONLINENEWSTODAY.COM
+ft) Show Item Attributes
+
+Bandwidth Renewal! (recurring) $.00
+Length: 1 month(s} monthly
+4] Show Hem Attributes
+
+Price Oty Disc. Price
+$7.29 1 $00 87.47
+
+$8.99 1 $.00 $8.99
+
+5.00 1 $00 $.00
+
+ 
+
+Subtotal: $16.46
+
+Shipping & Handling: $.00
+
+Tax: §.00
+Total: $16.46
+
+ 
+
+Confident.) T,
+
+fr Satm e
+e nt
+The G oe by
+
+GD 009697Case: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 10 of 26 PagelD #:236
+
+Receipt # 235336992
+Shopper # 7184052
+SR FT SS TS (RS SE AAT er
+Reseller:
+Date: 4/14/2010 3:35:36 PM By customer via Online
+Source Code: SAVE10
+
+Shipping Information Billing Information
+Domain Admin Domain Admin
+intermark Media Intermark Media
+135 Crossways Park Dr 135 Crossways Park Dr
+Woodbury, NY 11797 us Woodbury. NY 11797 US
+Daytime Phone: 6317191250 Daytime Phone: 6317191250
+domains@intermarkmedia.com Evening Phone:
+
+Fax:
+
+domains@intermarkmedia.com
+
+IP; 69.74.238.162::69.74.238.162
+Shipped via —
+Paid: Credit Card
+David Torre
+AMEX Exp. 5/2013
+P|
+
+Our Charges will appear on their credit card statement in the name:
+“GODADDY.COM”
+Processor: AMEXDirect-GD
+
+A I TS 5 ES AG
+
+ 
+
+Unit Today's Exira Total
+RowiD Labef Name Price Price Qty Disc. Price
+0 101-1 .COM Domain Name Registration - 1 Year $7.29 $7.29 1 $5.30 $2.17
+Domain: CHANNELSINVESTIGATES.COM recurring
+This a service item.
+#} Show item Attributes
+1 101-1 .COM Domain Name Registration - 1 Year $7.29 $7.29 1 $5.30 $2.17
+Domain: BROOKEHOGANSDIET.COM recurring
+This a service item.
++ Show Item Attributes
+2 101-1 .COM Domain Name Registration - 1 Year $7.29 $7.29 1 $5.30 $2.17
+Domain; CHANNEL2LOCAL.COM recurring
+This a service item.
+Show item Attributes
+3 101-1 .COM Domain Name Registration - 1 Year $7.29 $7.29 1 $5.30 $2.17
+Domain: CHANNELSHEALTHBEAT.COM recurring
+This a service item.
+4] Show Item Attributes
+4 7001-1 Private Registration Services $8.99 $8.99 1 $2.70 $6.29
+Length: 1 year(s) annual
+Domain: CHANNELSINVESTIGATES.COM
+This a service item.
+(4 Show Item Attributes
+5 7001-1 Private Registration Services $8.99 $8.99 1 $2.70 $6.29
+Length: 1 year(s) annual
+Domain: BROOKEHOGANSDIET.COM
+This a service item.
+i Show Item Attributes
+6 7001-1 Private Registration Services $8.99 $8.99 1 $2.70 $6.29
+Length: 1 year(s) annual
+Domain: CHANNEL2LOCAL.COM
+This a service item.
++t} Show Item Attributes
+7 7001-1 Private Registration Services $8.99 $8.99 1 $2.70 $6.29
+Onfident
+R fal alment Co 9097 30Case: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 11 of 26 PagelD #:237
+
+Length: 1 year(s)
+
+Domain: CHANNELSHEALTHBEAT.COM
+
+This a service item.
+Show ltem Attributes
+
+§ 6710-1 Economy Hosting - Windows - 1 year
+Length: 1 year(s)
+This a service item.
+(4) Show Item Attributes
+
+9 6710-1 Economy Hosting - Windows - 1 year
+Length: 1 year(s)
+This a service item.
+Show Item Attributes
+
+10 6710-1 Economy Hosting - Windows - 1 year
+Length: 1 year(s)
+This a service item.
+G4 Show Item Altributes
+
+11 6710-1 Economy Hosting - Windows - 1 year
+Length: 1 year(s}
+This a service item.
+4! Show item Attributes
+
+annual
+
+$56.88
+annual
+
+$56.88
+annual
+
+$56.88
+annual
+
+$56.88
+annual
+
+556.88
+
+$56.88
+
+$56.88
+
+$56.88
+
+1 $5.69 $51.19
+
+1 $5.69 $51.19
+
+1 $5.69 $51.19
+
+1 $5.68 $51.20
+
+th eg
+
+Subtotal: $238.61
+
+Shipping & Handling: $.00
+
+Tax: 5.00
+Total: $238.61
+
+i
+
+GD 009731
+
+Confidential Treatment
+Requested by
+The Go Daddy GroupCase: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 12 of 26 PagelD #:238
+
+Receipt # 235112514
+Shopper # 7184052
+I a pr fT
+Reseller:
+Date: 4/13/2010 2:35:30 PM By customer via Online
+Source Code: SAVE10
+
+Shipping Information Billing Information
+Domain Admin Domain Admin
+Intermark Media Intermark Media
+135 Crossways Park Dr 135 Crossways Park Dr
+Woodbury, NY 11797 us Woodbury, NY 11797 US
+Daytime Phone: 6317191250 Daytime Phone: 6317191250
+domains@intermarkmedia.com Evening Phone:
+
+Fax:
+
+domains@intermarkmedia.com
+
+IP: 69.74.238.162::69.74.238.162
+shipped via --
+Paid: Credit Card
+David Torre
+
+AMEX Exp. 5/2013
+ee
+
+Our Charges will appear on their credit card statement in the name:
+"GODADDY.COM"
+Processor: AMEXDirect-GD
+
+SSO PE Sif PE
+
+ 
+
+ 
+
+RowiD label
+0 101-1
+1 7001-1
+2 6710-1
+
+ 
+
+ 
+
+Unit Today's Extra Total
+Name Price Price Qty Disc. Price
+.COM Domain Name Registration - 1 Year $7.29 $7.29 74 $5.30 $2.17
+Domain: FDXNEWSAT8.COM recurring
+This a service item.
+Show Item Attributes
+Private Registration Services $8.99 $8.99 1 42.70 $6.29
+Length: 1 year(s) annual
+Domain: FODXNEWSAT8.COM
+This a service item.
+( Show liem Attributes
+Economy Hosting - Windows - 1 year $56.88 $56.88 1 $5.69 $57.19
+Length: 1 year(s) annual
+
+This a service item.
+i] Show Item Attributes
+
+ 
+
+Subtotal: $59.65
+
+Shipping & Handling: $.00
+Tax: $.00
+
+Total: $59.65
+
+Confidentiay Treatment
+
+Requested 5
+y
+the Go Daddy Group
+
+GD 009733Case: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 13 of 26 PagelD #:239
+
+Receipt # 226730305
+Shopper # 7184052
+YO TR TET
+Reseller:
+Date: 3/5/2010 1:58:37 PM By Justin C Grenier via Phone
+Source Code: from_app: crmcatalog
+Shipping Information Billing Information
+Domain Admin Domain Admin
+Intermark Media Intermark Media
+135 Crossways Park Dr 135 Crossways Park Or
+Woodbury, NY 11797 us Woodbury, NY 11797 US
+Daytime Phone: 6317191250 Daytime Phone: 6317191250
+domains@intermarkmedia.com Fvening Phone:
+Fax:
+
+domains@intermarkmedia.com
+
+IP: 172.19.34.153::172.19.34.153
+Paid: Credit Card
+David Torre
+
+AMEX =e 5/2013
+
+Our Charges will appear on their credit card statement in the name:
+“GODADDY.COM"
+Processor: AMEXDirect-GD
+a a Ey ra TE TT
+
+ 
+
+RowlD Labei
+
+0
+
+GD 009755
+
+16700-1
+
+16710-1
+
+16710-1
+
+16710-1
+
+16710-1
+
+16710-1
+
+16710-1
+
+Unit Today's Extra Tota!
+Name Pice Price Qty Disc. Price
+Economy Hosting - Linux - Renewal - 1 year $59.88 $59.88 1314.97 $44.94
+Length: 1 year(s) annual
+Domain: taxpayerstimulusailert.com
+This a service item.
+(+! Show Item Attributes
+Economy Hosting - Windows - Renewal - 1 year $59.88 $47.88 1 471.97 $35.91
+Length: 1 year(s) annual
+Domain: liberationiaw.com
+This a service item,
+4) Show Item Attributes
+Economy Hosting - Windows - Renewal - 1 year $59.88 $59.88 1 $14.97 $44.91
+Length: 1 year(s) annual
+Domain: wincruise22.com
+This a service item.
+[4 Show Item Attributes
+Economy Hasting - Windows - Renewal - 1 year $99.88 $59.88 1 $14.97 $44.91
+Length: 1 year(s) annual
+Domain: youronlinenewstoday.cam
+This a service item.
+4} Show Item Altributes
+Economy Hosting - Windows - Renewal - 1 year $09.88 $59.88 1314.97 $44.91
+Length: 1 year(s) annual
+Domain: americanhealthgazette.com
+This a service item.
+4 Show Item Attributes
+Economy Hosting - Windows - Renewal - 1 year $59.88 $59.88 1 914.97 $44.91
+Length: 1 year(s) annual
+Domain: americandentalpost.com
+This a service item.
+Show Item Attributes
+Economy Hosting - Windows - Renewal - 1 year $59.88 $59.88 1914.97 $44.91
+Length: 1 year(s) annual
+
+Domain: nbsnewsat6.com
+
+This a service item.
+
+{4 Show Item Attributes C
+Onfidentiay Trea
+
+tmentCase: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 14 of 26 PagelD #:240
+
+7 16710-1 Economy Hosting - Windows - Renewal - 7 year $99.68 $59.88 1914.97 $44.91
+Length: 1 year(s) annual
+Domain: news4daily.tv
+This a service item.
+Show Item Attributes
+
+8 16710-1 Economy Hosting - Windows - Renewal - 1 year $59.88 $59.88 1914.97 $44.91
+Length: 1 year(s) annual
+Domain: consumerproductsdaily.com
+This a service item.
+4 Show Item Attribules
+
+9 92102-1 Win Web Hosting - Economy - Renewal - 1 year $59.88 $59.88 1314.97 $44.91
+Length: 1 year(s) annual
+Domain: amysweightlossstory.net
+This a service item.
+{] Show Item Attributes
+
+10 52102-1 Win Web Hosting - Economy - Renewal - 1 year $59.88 $59.88 1414.97 $44.91
+Length: 1 year(s) annual
+Domain: myragstorichestory.com
+This a service item.
+4 Show Item Attributes
+
+14 52102-1 Win Web Hosting - Economy - Renewal - 1 year $59.88 $59.88 1914.97 $44.91
+Length: 1 year(s} annual
+Domain: wheremydegreehastakenme.com
+This a service item.
++! Show item Attributes
+
+12 92102-1 Win Web Hosting - Economy - Renewal - 1 year $59.88 $59.88 1914.97 $44.91
+Length: 1 year(s) annual
+Domain: britanyssuccessstory.com
+This a service item.
+[4] Show ltem Attributes
+
+13 52102-1 Win Web Hosting - Economy - Renewal - 1 year $59.88 $59.88 1 $14.97 $44.91
+Length: 1 year(s) annual
+Domain: mynewschannel13.com
+This a service item.
+4 Shaw Item Attributes
+ee gee ge a rer
+Subtotal: $619.74
+Shipping & Handling: $.00
+Tax: $.00
+Total: $649.74
+
+Confidential Treatment
+Requested by
+so casts € Go Daddy GroupCase: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 15 of 26 PagelD #:241
+
+Receipt # 220912199
+Shopper # 7184052
+ee 7 FS TS
+Resetler:
+Date: 2/8/2010 4:13:02 PM By customer via Online
+Source Code: SAVE10
+
+Shipping Information Billing Information
+Domain Admin Domain Admin
+Intermark Media intermark Media
+135 Crossways Park Dr 135 Crossways Park Dr
+Woodbury, NY 11797 us Woodbury, NY 11797 US
+Daytime Phone: 6317191250 Daytime Phone: 6317191250
+domains@intermarkmedia.com Evening Phone:
+
+Fax:
+
+domains@intermarkmedia.com
+
+IP: 69.74.238.162::69.74,.238.162
+Shipped via —
+Paid: Credit Card
+David Torre
+
+AMEX au 5/2013
+
+Our Charges will appear on their credit card statement in the name:
+“GODADDY.COM"
+Processor: AMEXDirect-GD
+
+a a i a,
+
+ 
+
+ 
+
+Unit Today's Extra Total
+RowiD Label Name Price Poce Qty Qisc. Price
+0 64-7 Economy Hosting - Windows - Monthly $4.99 $4.99 3 $1.50 $13.47
+Length: 1 month(s) monthly
+This a service item.
+[4] Show item Attributes
+¥ 101-1 .COM Domain Name Registration - 1 Year $7.29 $7.29 195.390 $2.17
+Domain: CONSUMERPRODUCTSDAILY.COM recurring
+This a service item.
+Show item Attributes
+2 7001-1 Private Registration Services $8.99 $8.99 1 $.90 $8.09
+Length: 1 year(s) annual
+
+Domain: CONSUMERPRODUCTSDAILY.COM
+This a service item.
+Il Show Item Attributes
+Si i eeepc oe
+Subtotal: $23.73
+Shipping & Handling:  $.00
+Tax: $,00
+Total: $23.73
+
+i
+
+Confidential Treatment
+Requested by
+GD 009776 The Go Daddy GroupCase: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 16 of 26 PagelD #:242
+
+Receipt # 219991427
+Shopper # 7184052
+
+ESE ye 2 I 20 52 I a TTY
+
+Reseller:
+Date: 2/4/2010 8:27:16 AM By customer via Online
+Source Code: SAVE10
+
+Shipping Information Billing Information
+Domain Admin Domain Admin
+Intermark Media Intermark Media
+135 Crossways Park Dr 135 Crossways Park Dr
+Woodbury, NY 11797 us Woodbury, NY 11797 US
+Daylime Phone: 6317191250 Daytime Phone: 6317191250
+domains@intermarkmedia.com Evening Phone:
+
+Fax:
+
+domains@intermarkmedia.com
+
+IP: 69.74.238.162::69.74.238.162
+Shipped via —
+Paid: Credit Card
+David Torre
+
+AMEX au 3/2013
+
+Our Charges will appear on their credit card statement in the name:
+"GODADDY.COM"
+Processor: AMEXDirect-GD
+
+ 
+
+RowlD Label
+
+0 101-1
+1 7001-1
+2 427(01-1
+
+ 
+
+Unit Today’s Extra Tota!
+Name Price Price Qly Disc. Price
+.COM Damain Name Registration - 1 Year $7.29 $7.29 195.30 $2.17
+Domain: BRITANYSSUCCESSSTORY.COM recurring
+This a service item.
+Show Item Attributes
+Private Registration Services $8.99 $899 1 $90 $8.09
+Length: 71 year(s) annual
+Domain: BRITANYSSUCCESSSTORY.COM
+This a service item.
++1 Show Item Attributes
+Win Web Hosting - Economy - Monthly $4.99 $4.99 3 $1.50 $13.47
+Length: 1 month(s) monthly
+
+This a service item.
+Show item Attributes
+
+ 
+
+Subtotal: $23.73
+
+Shipping & Handling:  $.00
+Tax: $.00
+
+Total: $23.73
+
+ 
+
+Confidential Treatment
+
+Requested by
+
+The Go Daddy Group
+
+GD 009786Case: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 17 of 26 PagelD #:243
+
+Receipt # 218556262
+Shopper # 7184052
+SSS SSS a rE a PNT EN ET ESS
+Reseller:
+Date: 1/28/2010 9:06:50 AM By customer via Online
+Source Code: SAVE10 .
+
+Shipping Information Billing Information
+Domain Admin Domain Admin
+Intermark Media Intermark Media
+135 Crossways Park Dr 135 Crossways Park Dr
+Woodbury, NY 11797 us Woodbury, NY 11797 US
+Daytime Phone: 6317191250 Daytime Phone: 6317191250
+domains@intermarkmedia.com Evening Phone:
+
+Fax:
+
+domains@intermarkmedia.com
+
+IP: 69.74.238.162::69.74.238.162
+Shipped via —
+Paid: Credit Card
+David Torre
+
+AMEX = 3/2012
+
+Our Charges will appear on their credit card statement in the name:
+"GODADDY.COM"
+Processor: AMEXDirect-GD
+
+aN eT
+
+ 
+
+ 
+
+ 
+
+ 
+
+Unit Today's Extra Total
+
+RowiD Label Name Price Price Qty Disc. Price
+0 13201-1 .TV Domain Name Registration - 1 Year $39.99 $39.99 1 $4.00 $35.99
+
+Domain: NEWS4DAILY.TV recurring
+
+This a service item.
+
+Show Item Attributes
+1 7001-1 Private Registration Services $8.99 $8.99 1 $90 $8.09
+
+Length: 1 year(s) annual
+
+Domain: NEWS4DAILY.TV
+This a service item.
+it] Show Item Attributes
+
+ 
+
+Subtotal: $44.08
+
+Shipping & Handling: $.00
+Tax: $.00
+
+Total: $44.08
+
+Confidential Treatment
+equ
+Fits quested by
+
+GoD
+GD 009789 9° Daddy GroupCase: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 18 of 26 PagelD #:244
+
+Receipt # 218524940
+Shopper # 7184052
+SS a a 2 PI 7 I
+Reseller:
+Date: 1/28/2010 8:16:00 AM By customer via Online
+Source Code: SAVE10
+
+Billing Information
+
+Domain Admin
+
+Intermark Media
+
+135 Crossways Park Dr
+Woodbury, NY 11797 US
+Daytime Phone: 6317191250
+Evening Phone:
+
+Fax:
+domains@intermarkmedia.com
+
+IP: 69.74.238.162::69.74.238.162
+Shipped via --
+Paid: Credit Card
+David Torre
+AMEX Exp. 5/2013
+
+Shipping Information
+
+Domain Admin
+
+Intermark Media
+
+135 Crossways Park Dr
+Woodbury, NY 11797 us
+Daytime Phone: 6317191250
+domains@intermarkmedia.com
+
+Our Charges will appear on their credit card statement in the name:
+"GODADDY.COM"
+Processor: AMEXDirect-GD
+
+ 
+
+ 
+
+RowiD Label
+0 966-1
+1 966-1
+2 978-1
+3 966-1
+4 966-1
+5 9069-1
+6 966-1
+7 7001-1
+
+ 
+
+Unit Today's Extra Total
+Name Price Price Qty Disc. Price
+.COM Bulk Domain Name Registration (6-20) $7.29 $7.29 195.30 $2.17
+Domain: AMERICANHEALTHGAZETTE.COM recurring
+This a service item.
+4 Show ftem Attributes
+.COM Bulk Domain Name Registration (6-20) $7.29 $7.29 195.30 $2.17
+Domain: AMERICANDENTALPOST.COM recurring
+This a service item.
+t Show ltem Attributes
+.NET Bulk Domain Name Registration (6-20) $5.99 $5.99 1$400 $2.17
+Domain: WORLDWIDEHEALTHEDITORIAL.NET recurring
+This a service item.
+4 Show Item Attributes
+.COM Bulk Domain Name Registration (6-20) $7.29 $7.29 15.30 $2.17
+Domain: INTERNETTIMESDAILY.COM recurring
+This a service item.
+it] Show Item Attributes
+.COM Bulk Domain Name Registration (6-20) 7.29 $7.29 1 $.00 $7.47
+Domain: NBSNEWSAT6.COM recurring
+This a service item.
+Show Stem Attributes
+.TV Bulk Domain Name Registration (6-20) $39.99 $39.99 1 $.00 $39.99
+Domain: NBSNEWSATS.TV recurring
+This a service item.
+#! Show Item Attributes
+.COM Bulk Domain Name Registration (6-20) $7.29 47.29 1 $.00 $7.47
+Domain: FXSPORTNEWS.COM recurring
+This a service item.
+Show item Attributes
+Private Registration Services $8.99 $8.99 1 8.99 $.00
+Length: 1 year(s) annual
+
+Domain: AMERICANHEALTHGAZETTE.COM
+This a service item.
+
+Confidential Treatment
+Requested by
+0 Daddy Group
+
+TheG
+
+GD 009780Case: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 19 of 26 PagelD #:245
+
+Gi Show Item Attributes
+
+8 7001-1 Private Registration Services $8.99 $8.99 1 $8.99 $.00
+Length: 1 year(s) annual
+Domain: AMERICANDENTALPOST.COM
+This a service item.
+Show Item Attributes
+
+9 7001-1 Private Registration Services $8.99 $8.99 1 $8.99 $.00
+Length: 1 year(s) annual
+Domain: WORLDWIDEHEALTHEDITORIAL.NET
+This a service item.
+4} Show Item Attributes
+
+10 7001-1 Private Registration Services $8.99 $8.99 1 $8.99 5.00
+Length: 1 year(s) annual
+Domain: INTERNETTIMESDAILY.COM
+This a service item.
+4] Show item Attributes
+
+11 7001-1 Private Registration Services $8.99 $899 1 $8.99 $.00
+Length: 1 year(s) annual
+Domain: NBSNEWSAT6.COM
+This a service item.
+i Show Item Attributes
+12 7001-1 Private Registration Services $8.99 $8.99 1 $8.99 $.00
+Length: 1 year(s) annual
+Domain: NBSNEWSATE.TV
+This a service item.
+Show Item Attributes
+13 7001-1 Private Registration Services $8.99 $899 7 $8.99 $.00
+Length: 1 year(s) annual
+Domain: FXSPORTNEWS.COM
+This a service item.
+Show Item Attributes
+14 64-1 Economy Hosting - Windows - Monthly $4.99 $4.99 3 $.75 $14.22
+Length: 1 month(s) monthly
+This a service item.
+G Show Item Attributes
+15 64-1 Economy Hosting - Windows - Monthly $4.99 $499 3 $.75 $14.22
+Length: 1 month(s) monthly
+This a service item.
+(4) Show Item Attributes
+16 64-1 Economy Hosting - Windows - Monthly $4.99 $499 3 $75 $14.22
+Length: 7 month(s) monthly
+This a service item.
+f Show Item Attributes
+17 64-1 Economy Hasting - Windows - Monthly $4.99 $4.99 3 $75 $14.22
+
+Length: 1 month(s) monthly
+This a service item.
++) Show Item Attributes
+
+ 
+
+Subtetai: $120.49
+
+Shipping & Handling: $.00
+Tax: $.00
+
+Total: $120.49
+
+ 
+
+GD 009791
+
+Confidential Treatment
+Requested by
+The Go Daddy GroupCase: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 20 of 26 PagelD #:246
+
+ 
+
+Receipt # 188596356
+Shopper # 7184052
+Reseller:
+Date: 8/27/2009 6:57:44 AM By billing agent via billing agent
+Source Code: from_app: wsc_dr
+Shipping Information Billing information
+David Torre David Torre
+135 Crossways Park Dr 135 Crossways Park Dr
+Woodbury, NY 11797 us Woodbury, NY 11797 us
+Daytime Phone: 6317191250 Daytime Phone: 6317191250
+Evening Phone: Evening Phone:
+Fax: Fax:
+domains@intermarkmedia.com domains@intermarkmedia.com
+IP: 3:
+Shipped via —
+Paid: Credit Card
+David Torre
+AMEX Exp. /
+
+Our Charges will appear on their credit card statement in the name:
+“GODADDY.COM"
+Processor: AMEXDirect-GD
+
+ 
+
+ 
+
+Unit Today's Extra Tota!
+
+ 
+
+ 
+
+RowlD Label Name Price Price Qty Disc, Price
+
+0 10101-1 .COM Domain Name Renewal - 1 Year $10.69 $1068 1 $00 $10.86
+Domain: KIMSWEIGHTLOSSBLOG.COM recurring
+i+} Show lItern Attributes
+
+1 10101-1 .COM Domain Name Renewal - 1 Year $10.69 $10.68 1 $.00 $10.86
+Domain: STICKYORSWEET.COM recurring
+
+ft! Show Item Attributes
+
+Subtotal: $21.72
+
+Shipping & Handling:  $.00
+Tax: $.00
+
+Total: $21.72
+
+Confidentia} Treatment
+Requested by
+The Go Daddy Group
+
+GD 009868Case: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 21 of 26 PagelD #:247
+
+Receipt # 188062071
+Shopper # 7184052
+
+ 
+
+Reseller:
+Date: 8/24/2009 1:49:56 PM By customer via Online
+Source Code: SAVE10
+
+Shipping Information Billing Information
+Demain Admin Domain Admin
+Intermark Media Intermark Media
+135 Crossways Park Dr 135 Crossways Park Dr
+Woodbury, NY 11797 us Woodbury, NY 11797 US
+Daytime Phone: 6317191250 Daytime Phone: 6317191250
+domains@intermarkmedia.com Evening Phone:
+
+Fax:
+
+domains@intermarkmedia.com
+
+IP: 69.74.238.162::69.74.238.162
+Shipped via —
+Paid: Credit Card
+David Torre
+AMEX Exp. 3/2012
+
+Our Charges will appear on their credit card statement in the name:
+"GODADDY.COM"
+Processor: AMEXDirect-GD
+
+ 
+
+ 
+
+ 
+
+Unit Today's Extra Total
+
+RowiD Label Name Price Price Qty Disc. Price
+0 12001-1 .NET Domain Name Registration - 1 Year $12.99 $8.99 1 $00 $9.17
+
+Domain: AMY SWEIGHTLOSSSTORY.NET recurring
+
+This a service item.
+
+4} Show Item Attributes
+1 7001-1 Private Registration Services $8.99 $8.99 1 $90 $8.09
+
+Length: 1 year(s) annual
+
+Domain: AMYSWEIGHTLOSSSTORY.NET
+This a service item.
+it} Show Item Attributes
+
+ 
+
+Subtotal: $17.26
+
+Shipping & Handling: §.00
+Tax: $.00
+
+Total: $17.26
+
+ 
+
+Confidentiay Trea
+€quested bh
+The Go Daddy Group
+
+tment
+
+GD 009871Case: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 22 of 26 PagelD #:248
+
+Receipt # 185045403
+Shopper # 7184052
+a a tt
+Reseller:
+Date: 8/8/2009 7:38:09 AM By bitling agent via billing agent
+Source Code: from_app: wsc_dr
+
+Shipping Information Bilfing Information
+David Torre David Torre
+135 Crossways Park Dr 135 Crossways Park Dr
+Woodbury, NY 11797 us Woodbury, NY 11797 us
+Daytime Phone: 6317191250 Daytime Phone: 6317191250
+Evening Phone: Evening Phone:
+Fax: Fax:
+domains@intermarkmedia.com domains@intermarkmedia.com
+IP: 3:
+Shipped via --
+Paid: Credit Card
+David Torre
+
+AMEX ae {
+
+Our Charges will appear on their credit card statement in the name:
+"GODADDY.COM"
+Processor: AMEXDirect-GD
+
+SSS a a a a
+
+ 
+
+ 
+
+Unit Today's Extra Total
+
+RowlD Label Name Price Price Qty Disc. Price
+
+0 10101-1 .COM Domain Name Renewal - 1 Year $10.69 $10.68 14 $00 $10.86
+Domain: VITALACAIBERRY.COM recurring
+
+1 Show Item Attributes
+
+ 
+
+Subtotal: $10.86
+
+Shipping & Handling: $.00
+Tax: $.00
+
+Total: $10.86
+
+ 
+
+Confidentis Il Tres
+“quested 4,
+The Go Daddy Group
+
+Gp 009873
+
+{me
+
+ntCase: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 23 of 26 PagelD #:249
+
+Receipt # 177875360
+Shopper # 7184052
+
+ 
+
+Reseller:
+Date: 7/1/2009 6:26:33 AM By customer via Online
+Source Code: SAVE10
+
+Shipping Information Billing information
+Domain Admin Domain Admin
+Intermark Media Intermark Media
+135 Crossways Park Dr 135 Crossways Park Dr
+Woodbury, NY 11797 us Woodbury, NY 17797 US
+Daytime Phone: 6317191250 Daytime Phone: 6317191250
+domains@intermarkmedia.com Evening Phone:
+
+Fax:
+
+domains@intermarkmedia.com
+
+IP: 69.74.238.162::69.74,.238.162
+Paid: Credit Card
+David Torre
+! AMEX Exp. 3/2009
+P|
+
+Our Charges will appear on their credit card statement in the name:
+“GODADDY.COM"
+Processor: AMEXDirect-GD
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Unit Today's Extra Total
+
+RowiD Label Name Price Price Qty Disc. Price
+0 101-1 .COM Domain Name Registration - 1 Year $10.69 $9.99 1 §$.00 $10.19
+
+Domain: MYNEWSCHANNEL13.COM recurring
+
+This a service item.
+
+(t! Show Item Attributes
+1 7001-1 Private Registration Services $8.99 $8.99 1 $90 $8.09
+
+Length: 1 year(s) annual
+
+Domain: MYNEWSCHANNEL13.COM
+This a service item.
+Show Item Attributes
+
+Subtotal: $18.28
+
+Shipping & Handling: $.00
+Tax: $.00
+
+Total: $18.28
+
+Confidentiaj Treatment
+
+Requested b
+GD 009881 Te Go Daddy SipCase: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 24 of 26 PagelD #:250
+
+RowlD
+
+Label
+101-1
+
+7001-1
+
+64-1
+
+Receipt # 177785301
+Shopper # 7184052
+
+ 
+
+Reseller:
+Date: 6/30/2009 3:04:11 PM By customer via Online
+Source Code: SAVE10
+
+Shipping Information Billing Information
+Domain Admin Domain Admin
+Intermark Media Intermark Media
+135 Crossways Park Dr 135 Crossways Park Dr
+Woodbury, NY 11797 us Woodbury, NY 11797 US
+Daytime Phone: 6317191250 Daytime Phone: 6317191250
+domains@intermarkmedia.com Evening Phone:
+
+Fax:
+
+domains@intermarkmedia.com
+
+IP: 69.74.238.162::69.74.238.162
+Shipped via —
+Paid: Credit Card
+David Torre
+AMEX Exp. 3/2009
+|
+
+Our Charges will appear on their credit card statement in the name:
+"GODADDY.COM"
+Processor: AMEXDirect-GD
+
+ 
+
+Unit Today's Extra Tofal
+Name . Price Price Qty Oise. Price
+.COM Domain Name Registration - 1 Year $10.69 $9.99 1 $8.00 $2.19
+Domain: NEWSCHANNEL4NEWS.COM recurring
+This a service item.
+ti Show Item Attributes
+Private Registration Services $8.99 $8.99 1 $90 $8.09
+Length: 1 year(s} annual
+Domain: NEWSCHANNEL4NEWS.COM
+This a service item.
+8 Show ttem Attributes
+Economy Hosting - Windows - Monthly $4.99 $4.99 3 $1.50 $13.47
+Length: 1 month(s) monthly
+
+This a service item.
++ Show Item Attributes
+
+Subtotal: $23.75
+
+Shipping & Handling: $.00
+Tax: $.00
+
+Total: $23.75
+
+Confidential Treatment
+
+Requested by
+
+The Go Daddy Group
+
+GD 009882Case: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 25 of 26 PagelD #:251
+
+Receipt # 176596529
+Shopper # 7184052
+
+ae ee ree eeneeeeeeeeeeee eee ener ese ee ee IKE Sc RET
+
+Reseller:
+Date: 6/24/2009 6:24:22 AM By customer via Online
+Source Code: SAVE10
+
+Shipping Information Bilting Information
+Domain Admin Domain Admin
+Intermark Media Intermark Media
+135 Crossways Park Dr 135 Crossways Park Dr
+Woodbury, NY 11797 us Woodbury, NY 11797 US
+Daytime Phone: 6317191250 Daytime Phone: 6317191250
+domains@intermarkmedia.com Evening Phone:
+
+Fax:
+
+domains@intermarkmedia.com
+
+IP: 69.74.238.162::69.74.238.162
+Paid: Credit Card
+David Torre
+AMEX Exp. 3/2009
+
+Our Charges will appear on their credit card statement in the name:
+
+“GODADDY.COM"
+Processor: AMEXDirect-GD
+
+ 
+
+ 
+
+0
+
+1
+
+7007-1
+
+Unit
+Name Price
+.COM Domain Name Registration - 1 Year $10.69
+Domain: YOURONLINENEWSTODAY.COM recurring
+This a service item.
+itt] Show Item Attributes
+Private Registration Services $8.99
+Length: 1 year(s) annual
+
+Domain: YOURONLINENEWSTODAY.COM
+This a service item.
+! Show Item Attributes
+
+Today's Extra Total
+Price Qty Disc. Price
+$9.99 1 $00 $10.19
+
+98.99 1 31.80 $7.79
+
+Subtotal: $17.38
+
+Shipping & Handling:  $.00
+
+Tax: $.00
+Total: $17.38
+
+ 
+
+Confidential Treatment
+Requested by
+The Go Daddy Group
+
+GD 009886Case: 1:11-cv-02484 Document #: 6-14 Filed: 04/13/11 Page 26 of 26 PagelD #:252
+
+Receipt # 153710629
+Shopper # 7184052
+
+ 
+
+Reseller:
+Date: 2/16/2009 12:03:01 PM By customer via Online
+Source Code: 777
+
+Shipping Information Billing Information
+Domain Admin Domain Admin
+Intermark Media Intermark Media
+6851 Jericho Turnpike 6851 Jericho Turnpike
+syosset, NY 11729 US Syosset, NY 11729 US
+Daytime Phone: 6317191250 Daytime Phone: 6317191250
+domains@intermarkmedia.com Evening Phone:
+
+Fax:
+
+domains@intermarkmedia.com
+
+IP: 69.74.238.162::69.74.238.162
+Paid: Credit Card
+David Torre
+
+AMEX = 3/2009
+
+Our Charges will appear on their credit card statement in the name:
+"GODADDY.COM"
+Processor: AMEXDirect-GD
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+. Unit Today's Extra Total
+
+RowiD Label Name Price Price Qty Disc. Price
+
+0 101-1 .COM Domain Name Registration - 1 Year $10.69 $9.99 7% $.00 $10.19
+Domain: MYACAISTORE.COM recurring
+
+This a service item.
+8 Show Stem Attributes
+
+Subtotal: $10.19
+
+Shipping & Handling: $.00
+Tax: $.00
+
+Total: $10.19
+
+Confidential Treatment
+Requested by
+The Go Daddy Group
+
+GD 009927
